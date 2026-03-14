@@ -1,0 +1,15 @@
+# Datasets
+*.csv
+*.jsonl
+*.json
+
+# Model Weights and Adapters
+*.pt
+*.bin
+*.safetensors
+mistral_laptop_absa_full_final/
+
+# Python Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
