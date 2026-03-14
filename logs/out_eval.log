@@ -1,0 +1,34 @@
+Loading Tokenizer...
+Loading Base Model (16-bit)...
+Attaching Trained LoRA Adapters...
+Loading News OOD data from media_lens_train.jsonl...
+Starting inference on 100 news examples...
+
+============================================================
+🧠 MISTRAL OOD TEST - INDIA MEDIA LENS (NEWSPAPERS)
+============================================================
+
+OOD NEWS ACCURACY: 33.00%
+
+CLASSIFICATION REPORT:
+------------------------------------------------------------
+              precision    recall  f1-score   support
+
+     invalid       0.00      0.00      0.00         0
+    negative       0.35      0.29      0.32        21
+     neutral       0.72      0.33      0.45        64
+    positive       0.25      0.40      0.31        15
+
+    accuracy                           0.33       100
+   macro avg       0.33      0.25      0.27       100
+weighted avg       0.58      0.33      0.40       100
+
+
+CONFUSION MATRIX:
+------------------------------------------------------------
+             | Pred: Pos  | Pred: Neg  | Pred: Neu 
+-------------------------------------------------------
+True: positive | 6          | 1          | 1         
+True: negative | 2          | 6          | 7         
+True: neutral | 16         | 10         | 21        
+============================================================

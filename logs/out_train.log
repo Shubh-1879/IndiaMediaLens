@@ -1,0 +1,35 @@
+Loading Tokenizer for mistralai/Mistral-7B-v0.1...
+Loading 16-bit Native Model...
+trainable params: 41,943,040 || all params: 7,283,675,136 || trainable%: 0.5758499550960753
+Loading laptop ABSA dataset...
+Starting training loop...
+{'loss': 2.4683, 'grad_norm': 3.246101140975952, 'learning_rate': 1.9998673251243672e-05, 'epoch': 0.11}
+{'loss': 1.4086, 'grad_norm': 4.3539910316467285, 'learning_rate': 1.991215540251542e-05, 'epoch': 0.22}
+{'loss': 1.076, 'grad_norm': 3.503629684448242, 'learning_rate': 1.969159265611101e-05, 'epoch': 0.32}
+{'loss': 0.9529, 'grad_norm': 2.5610196590423584, 'learning_rate': 1.9348256763960146e-05, 'epoch': 0.43}
+{'loss': 0.9668, 'grad_norm': 2.6740355491638184, 'learning_rate': 1.8872793175064594e-05, 'epoch': 0.54}
+{'loss': 0.9446, 'grad_norm': 3.1422080993652344, 'learning_rate': 1.827734027961001e-05, 'epoch': 0.65}
+{'loss': 0.9229, 'grad_norm': 3.012484073638916, 'learning_rate': 1.7569950556517566e-05, 'epoch': 0.75}
+{'loss': 0.9316, 'grad_norm': 3.1351888179779053, 'learning_rate': 1.6760190238276418e-05, 'epoch': 0.86}
+{'loss': 0.887, 'grad_norm': 3.1781857013702393, 'learning_rate': 1.5859009944060005e-05, 'epoch': 0.97}
+{'loss': 0.8104, 'grad_norm': 4.175787925720215, 'learning_rate': 1.4878596591387329e-05, 'epoch': 1.08}
+{'loss': 0.7675, 'grad_norm': 4.735625743865967, 'learning_rate': 1.3832208588969975e-05, 'epoch': 1.19}
+{'loss': 0.7254, 'grad_norm': 5.516236782073975, 'learning_rate': 1.2733996539478883e-05, 'epoch': 1.29}
+{'loss': 0.7018, 'grad_norm': 5.309935569763184, 'learning_rate': 1.159881187691835e-05, 'epoch': 1.4}
+{'loss': 0.7401, 'grad_norm': 5.851675510406494, 'learning_rate': 1.0442006026458506e-05, 'epoch': 1.51}
+{'loss': 0.6562, 'grad_norm': 4.88700008392334, 'learning_rate': 9.279222802745028e-06, 'epoch': 1.62}
+{'loss': 0.699, 'grad_norm': 8.100529670715332, 'learning_rate': 8.126186854142752e-06, 'epoch': 1.72}
+{'loss': 0.6558, 'grad_norm': 8.448310852050781, 'learning_rate': 6.9984910138419434e-06, 'epoch': 1.83}
+{'loss': 0.6392, 'grad_norm': 4.8131866455078125, 'learning_rate': 5.911385433538621e-06, 'epoch': 1.94}
+{'loss': 0.6086, 'grad_norm': 7.258228302001953, 'learning_rate': 4.879571351294287e-06, 'epoch': 2.05}
+{'loss': 0.5026, 'grad_norm': 8.614678382873535, 'learning_rate': 3.917002282510854e-06, 'epoch': 2.16}
+{'loss': 0.4911, 'grad_norm': 6.525845527648926, 'learning_rate': 3.0366953225719076e-06, 'epoch': 2.26}
+{'loss': 0.5153, 'grad_norm': 10.537834167480469, 'learning_rate': 2.2505551129582047e-06, 'epoch': 2.37}
+{'loss': 0.4995, 'grad_norm': 9.377888679504395, 'learning_rate': 1.5692128513939142e-06, 'epoch': 2.48}
+{'loss': 0.4495, 'grad_norm': 8.216418266296387, 'learning_rate': 1.0018825231350203e-06, 'epoch': 2.59}
+{'loss': 0.4686, 'grad_norm': 6.584063529968262, 'learning_rate': 5.562362976251901e-07, 'epoch': 2.69}
+{'loss': 0.4807, 'grad_norm': 6.549726963043213, 'learning_rate': 2.3830077556552424e-07, 'epoch': 2.8}
+{'loss': 0.5043, 'grad_norm': 10.551504135131836, 'learning_rate': 5.2375489478616593e-08, 'epoch': 2.91}
+{'train_runtime': 4135.8519, 'train_samples_per_second': 1.346, 'train_steps_per_second': 0.337, 'train_loss': 0.7855512602575894, 'epoch': 3.0}
+Saving final model adapters...
+Training Complete!
