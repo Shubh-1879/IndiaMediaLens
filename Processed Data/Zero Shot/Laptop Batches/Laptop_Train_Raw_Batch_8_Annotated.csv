@@ -1,0 +1,201 @@
+Sentence,Aspect Term,Polarity
+"Otherwise, all other features are a 1",features,Negative
+The performance is awesome.,performance,Positive
+The display is beyond horrible.,display,Negative
+There is hardly any memory on the computer's hard drive.,memory,Negative
+There is hardly any memory on the computer's hard drive.,hard drive,Negative
+"Actually, I had noticed the one on the sales floor also didn't have sound!",sound,Negative
+"Next, most Acer laptop fans are on the bottom which is right on your laptop.",fans,Negative
+the laptop preformed pretty well.,preformed,Positive
+I got my MacBook Pro because I wanted to do all the stuff I need to do without worrying about the system quitting on me or freezing for a few minutes.,system,Positive
+I loved the netbook (minus the fact that it was windows OS) until this started happening.,windows OS,Negative
+"The minute you fire it up it's all good, very easy user interface.",user interface,Positive
+Â  I actually contact Toshiba before I started having problem and was given run around after I supplied serial number in order to delay me sending in laptop until after warrenty expired.,warrenty,Negative
+"Theres also iDVD, a program dedicated to putting all your favorite media together- photos, recordings, video projects into one program so that you can create the perfect memoir for your parents, family, siblings, and any other person important in your life that there may be.",iDVD,Positive
+"Theres also iDVD, a program dedicated to putting all your favorite media together- photos, recordings, video projects into one program so that you can create the perfect memoir for your parents, family, siblings, and any other person important in your life that there may be.",program,Positive
+"Theres also iDVD, a program dedicated to putting all your favorite media together- photos, recordings, video projects into one program so that you can create the perfect memoir for your parents, family, siblings, and any other person important in your life that there may be.",program,Positive
+After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.,hard drive,Negative
+After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.,battery,Negative
+After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.,hard drive,Negative
+After replacing the hard drive the battery stopped working  (3 months of use) which was frustrating.,battery,Negative
+"I love the easy to see screen, and It works well for work, persoal or just play.",screen,Positive
+"I love the easy to see screen, and It works well for work, persoal or just play.",works,Positive
+"If what you need is a machine to do some surfing, email checking, word processing, and watching a movie or two, this is the machine you want.",word processing,Positive
+"If what you need is a machine to do some surfing, email checking, word processing, and watching a movie or two, this is the machine you want.",surfing,Positive
+the mouse pad and buttons are the worst i've ever seen.,mouse pad,Negative
+the mouse pad and buttons are the worst i've ever seen.,buttons,Negative
+Awesome graphics!,graphics,Positive
+It really is perfect for work and play.,play,Positive
+It really is perfect for work and play.,work,Positive
+"The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).",Intel i processors,Negative
+"The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).",edge,Negative
+"The pro is a great product, I wish that the 13 inch models came with the Intel i processors and had a more comfortable edge (the edges hurt my wrists).",edges,Negative
+One drawback I noticed was sound quality via USB.,sound quality via USB,Negative
+"The battery life sucked the juice from my laptop and when the extended life battery went out we were SOL there to, so much for that warranty covering all the products we purchased.",battery life,Negative
+"The battery life sucked the juice from my laptop and when the extended life battery went out we were SOL there to, so much for that warranty covering all the products we purchased.",warranty,Negative
+"The battery life sucked the juice from my laptop and when the extended life battery went out we were SOL there to, so much for that warranty covering all the products we purchased.",extended life battery,Negative
+"I have had another Mac, but it got slow due to an older operating system.",operating system,Negative
+"That's very possible, but since they don't make Windows XP drivers for the sound card in this machine, I was stuck until Windows 7 came out.",Windows XP drivers,Negative
+"That's very possible, but since they don't make Windows XP drivers for the sound card in this machine, I was stuck until Windows 7 came out.",sound card,Neutral
+"That's very possible, but since they don't make Windows XP drivers for the sound card in this machine, I was stuck until Windows 7 came out.",Windows 7,Positive
+"I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.",features,Positive
+"I'ts nice to have the higher-end laptops, but this fits my budget and the features I need.",budget,Positive
+"Was disappointed to find out that the model had been discontinued, apparently because of known motherboard problems.",motherboard,Negative
+"Well, I started using Google Chrome, which is a little better, but it freezes too sometimes.",Google Chrome,Negative
+"Also the speakers are not very loud, But it is a netbook.",speakers,Negative
+LOVE THIS LAPTOP WONDERFUL PRICE FOR WHAT YOU GET!,PRICE,Positive
+Just a black screen!,screen,Negative
+A key contributor that led me to Mac is the art aspect.,art aspect,Positive
+"Eventually my battery wouldn't charge, so unless I had it plugged in it wouldn't even power on.",battery,Negative
+"Purchased for development purposes, but it has turned into my everyday laptop as well for surfing, e-mail, etc.",surfing,Positive
+My first problem was with the pre-loaded Norton Firewall/Security program.,pre-loaded Norton Firewall/Security program,Negative
+"I had a USB connect but, i can't use it because it is not compatible.",USB connect,Negative
+"Accordingly, I have decided to NEVER purchase another HP product (my five year old Compaq) lasted 5-years before the hard drive crashed.",hard drive,Negative
+"I know that everyone thinks Macs are overpriced and overrated, but once you get past the initial expense you'll find that they're worth every penny (besides, there's always the financing plan that Best Buy offers).",expense,Positive
+"I am not going to sit here and complain about it not having a cd drive and what not because it is a netbook, it is made to be compact and if you want all the other stuff get a laptop.",cd drive,Neutral
+I love the multi-touch trackpad.,multi-touch trackpad,Positive
+HP is more interested in selling extended warranties (which cost more than the netbook new) then they are in helping or fixing.,extended warranties,Negative
+HP is more interested in selling extended warranties (which cost more than the netbook new) then they are in helping or fixing.,cost,Negative
+"Not too much ""junk"" software to remove.",software,Positive
+System is loosing about 20% of performance because of that.,performance,Negative
+System is loosing about 20% of performance because of that.,System,Negative
+"It is easy to use, good quality and good price.",quality,Positive
+"It is easy to use, good quality and good price.",price,Positive
+"It is easy to use, good quality and good price.",use,Positive
+"The difference in the Apple keyboard from a PC's keyboard took a bit of tim to get used to, but overall it's worth it!",Apple keyboard,Positive
+"The difference in the Apple keyboard from a PC's keyboard took a bit of tim to get used to, but overall it's worth it!",PC's keyboard,Neutral
+The extended warranty for the $4000 and up computers was the only one available for purchase on the drop drown menu.,extended warranty,Neutral
+"Only issue is that it is a little slow, and I'm fixing that by adding more RAM.",RAM,Negative
+"Â  The hard drive crashed as well, and I had to buy a new  power cord.",hard drive,Negative
+"Â  The hard drive crashed as well, and I had to buy a new  power cord.",power cord,Negative
+Another issue I have with it is the battery.,battery,Negative
+"After 2 months of complaints, Asus finally sent the right power supply to my techies.",power supply,Neutral
+"After 2 months of complaints, Asus finally sent the right power supply to my techies.",techies,Negative
+"That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",Sony Sonic Stage software,Positive
+"That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",speakers,Positive
+"That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",subwoofer,Positive
+"That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",extended life battery,Positive
+"That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",Docking port,Positive
+"That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",bluetooth mouse,Positive
+"That included the extra Sony Sonic Stage software, the speakers and the subwoofer I got (that WAS worth the money), the bluetooth mouse for my supposedly bluetooth enabled computer, the extended life battery and the Docking port.",bluetooth enabled,Neutral
+"My MacBook Pro works like a dream, it has never overheated, or even been slightly warm for that matter.",works,Positive
+PC users use the Powerpoint program for slide-show presentation and Mac users utilize Keynote.,Keynote,Neutral
+PC users use the Powerpoint program for slide-show presentation and Mac users utilize Keynote.,Powerpoint program,Neutral
+"I get a ton of compliments on its size, and speaking as someone who regularly commutes on a bus, I can attest to the fact that this is the perfect size computer if you're restricted to the width of your body for computing room.",size,Positive
+"I get a ton of compliments on its size, and speaking as someone who regularly commutes on a bus, I can attest to the fact that this is the perfect size computer if you're restricted to the width of your body for computing room.",size,Positive
+"It takes me approximately 3 tries to get to each site, then after closing the browser and reopening it it actually works.",browser,Negative
+"Easy to carry, can be taken anywhere, can be hooked up to printers,headsets.",carry,Positive
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.,keyboard,Negative
+also the keyboard does not liht up so unless your sitting in a room with some light you cant see anything and thats bad for me because my boyfriend tends to watch tv in the dark at night which leaves me with no way of seeing the keyboard.,keyboard,Negative
+"When I got my laptop back after this first instance it worked okay for a little bit then I started expeirencing issues again, everything from programs and drivers failing again, to it powering off for no reason, to locking up and freezing and just all sorts of issues.",programs,Negative
+"When I got my laptop back after this first instance it worked okay for a little bit then I started expeirencing issues again, everything from programs and drivers failing again, to it powering off for no reason, to locking up and freezing and just all sorts of issues.",drivers,Negative
+Love that it doesn't take up space like a regular computer.,space,Positive
+Asked the customer service rep.,customer service rep,Neutral
+"So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up.",genius bar staff,Negative
+"So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up.",fan,Negative
+"So, I took it back to the apple store and they narcissist genius bar staff) fixed it by resetting the fan at boot up.",boot up,Neutral
+"Just keep in mind the graphics is not dedicated so loading the movie almost took a minute, but it ran fairly smooth for a non-dedicated graphics card.",graphics,Neutral
+"Just keep in mind the graphics is not dedicated so loading the movie almost took a minute, but it ran fairly smooth for a non-dedicated graphics card.",non-dedicated graphics card,Positive
+"Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a mouse in small area.",Mouse Cable,Negative
+"Needs Power and Mouse Cable to Plug in back instead of side, In the way of operating a mouse in small area.",mouse,Negative
+"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",RAM slots,Positive
+"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",HDD Bays,Positive
+"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",16GB RAM support,Positive
+"-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",Wireless,Positive
+I agree with the previous comment that ASUS TECH SUPPORT IS HORRIBLE WHICH IS A CON IN MY OPINION.,ASUS TECH SUPPORT,Negative
+"In fact, somehow (and I never opened it up) some specks of dust or something got inside the screen and are now there permanently, behind the front of the screen, in the way of the display.",screen,Negative
+"In fact, somehow (and I never opened it up) some specks of dust or something got inside the screen and are now there permanently, behind the front of the screen, in the way of the display.",screen,Negative
+"In fact, somehow (and I never opened it up) some specks of dust or something got inside the screen and are now there permanently, behind the front of the screen, in the way of the display.",display,Negative
+"the mouse on the pad, the left button always sticks.",mouse on the pad,Negative
+"the mouse on the pad, the left button always sticks.",left button,Negative
+Â  i have tried to charge on different batteries with no luck.,batteries,Negative
+"I would recommend this computer to anyone searching for the perfect laptop, and the battery life is amazing.",battery life,Positive
+"We use the built in tools often, iTunes is open nearly every day and works great with my iPhone.",built in tools,Positive
+"We use the built in tools often, iTunes is open nearly every day and works great with my iPhone.",iTunes,Positive
+the size of has actually help me out quite a bit by me being able to fit it in an already full backpack and to use it at a resturant where the food on the table is always so space consuming.,size,Positive
+True quality at a great price!,quality,Positive
+True quality at a great price!,price,Positive
+Not easy to carry.,carry,Negative
+The programs that come standard with the Leopard running system are enough for the average person to run all the basics.,programs,Positive
+The programs that come standard with the Leopard running system are enough for the average person to run all the basics.,Leopard running system,Neutral
+"So what am I supposed to do?  The LG service center cannot provide me the ""service"" when it is called the ""service center"".",LG service center,Negative
+"So what am I supposed to do?  The LG service center cannot provide me the ""service"" when it is called the ""service center"".",service center,Negative
+"So what am I supposed to do?  The LG service center cannot provide me the ""service"" when it is called the ""service center"".",service,Negative
+The Material this Pro is made out of seems a lot nicer than any PC  Specs: Like I said this performs a lot better than any computer I've had in the past.,Material,Positive
+The Material this Pro is made out of seems a lot nicer than any PC  Specs: Like I said this performs a lot better than any computer I've had in the past.,Specs,Positive
+The Material this Pro is made out of seems a lot nicer than any PC  Specs: Like I said this performs a lot better than any computer I've had in the past.,performs,Positive
+"After doing extensive research, macconnection had the lowest price on the 15"" MBP i5.",price,Positive
+I am ADDICTED to photo booth!,photo booth,Positive
+"The operating system and user interface is very intuitive, and the large multi-touch track pad is amazing.",operating system,Positive
+"The operating system and user interface is very intuitive, and the large multi-touch track pad is amazing.",user interface,Positive
+"The operating system and user interface is very intuitive, and the large multi-touch track pad is amazing.",multi-touch track pad,Positive
+Hard disk - The new editions gives you more hard disk space (500GB instead of 320GB) but time has taught me never to trust an internal hard disk.,Hard disk,Neutral
+Hard disk - The new editions gives you more hard disk space (500GB instead of 320GB) but time has taught me never to trust an internal hard disk.,hard disk space,Positive
+Hard disk - The new editions gives you more hard disk space (500GB instead of 320GB) but time has taught me never to trust an internal hard disk.,internal hard disk,Negative
+It is extremely portable and easily connects to WIFI at the library and elsewhere.,connects to WIFI,Positive
+"First things first, Macbook pro has many applications to make life easier, unlike the windows computers.",applications,Positive
+"First things first, Macbook pro has many applications to make life easier, unlike the windows computers.",windows,Negative
+And the screen on this thing is absolutely amazing for high quality videos and movies and gaming.,screen,Positive
+And the screen on this thing is absolutely amazing for high quality videos and movies and gaming.,gaming,Positive
+"Â  I considered I may have too much on the computer, but after looking, there was plenty of space and that is not the issue.",space,Positive
+I don't use my laptop in a way though that needs a long battery life so it's perfect for me.,battery life,Positive
+Â  i must keep it plugged in at all times because it will not keep a charge for longer than four minutes.,charge,Negative
+"Summary: I've had this laptop for 2 months, out of the blue the power adapter stops working.",power adapter,Negative
+"I saw walmart had the same computer for about $650 but still knowing what I know now,I would not buy it at that price.",price,Negative
+"Of course, for a student, weight is always an issue.",weight,Negative
+"Now mainboard is broken, have to wait for a new one.",mainboard,Negative
+"The speed difference is next to NOTHING for a mac, and the hard drive can be manually upgraded or you could just buy a $60 500gb external hard drive.",speed,Positive
+"The speed difference is next to NOTHING for a mac, and the hard drive can be manually upgraded or you could just buy a $60 500gb external hard drive.",hard drive,Neutral
+"The speed difference is next to NOTHING for a mac, and the hard drive can be manually upgraded or you could just buy a $60 500gb external hard drive.",500gb external hard drive,Neutral
+2.The wireless card is low quality.,wireless card,Negative
+They also use two totally different operating systems.,operating systems,Neutral
+They are about the same size keys.,keys,Neutral
+I wasn't really as concerned about portability (it's a very large laptop) but it's not hard to move around or take on a trip which was a pleasant surprise.,portability,Positive
+"The people are frustrating to work with, the product itself is very cheaply made, and the accessories are less than satisfactory.",accessories,Negative
+"They offer the best warranty in the business, and don't 3rd party it out like Toshiba.",warranty,Positive
+The only problems are the sound isnt very loud I have to wear headphones.,sound,Negative
+Again- windows based machines were not giving me anything to work with!,windows,Negative
+"everything about a mac is wonderful, it takes a little used to learning and getting used to the new system, but you will learn fast and its all worth it.",system,Positive
+i love the size of the computer since i play games on it.,size,Positive
+i love the size of the computer since i play games on it.,games,Positive
+"You know, using the computer should be fun, not aggrevation, especially when you are playing games or working with photos.",playing games,Positive
+There are no viruses or spyware to worry about like on a Windows computer.,Windows,Negative
+To be honest i think it was faulty equipment or something but idk.,equipment,Negative
+"I also love the small, convenient size of my laptop, making it a perfect tool for my academic studies.",size,Positive
+"I love its solid build, light wt and excellent battery life (for now).",build,Positive
+"I love its solid build, light wt and excellent battery life (for now).",wt,Positive
+"I love its solid build, light wt and excellent battery life (for now).",battery life,Positive
+"while about 8 years ago, I hope that the quality has changed.",quality,Neutral
+"The difference is it's a whole lot of fun using the laptop now, still learning the Apple navigation, but is fun and comes with a lot of cool apps.",Apple navigation,Positive
+"The difference is it's a whole lot of fun using the laptop now, still learning the Apple navigation, but is fun and comes with a lot of cool apps.",apps,Positive
+"The battery holds up well, it's built very solidly, and runs fast.",battery,Positive
+"The battery holds up well, it's built very solidly, and runs fast.",built,Positive
+"The battery holds up well, it's built very solidly, and runs fast.",runs,Positive
+Sound card is limited though.,Sound card,Negative
+This is a nicely sized laptop with lots of processing power and long battery life.,processing power,Positive
+This is a nicely sized laptop with lots of processing power and long battery life.,battery life,Positive
+This is a nicely sized laptop with lots of processing power and long battery life.,sized,Positive
+Â  The only thing I can imagine is that Sony jumped on early specifications for Vista requirements from Microsoft and designed it to those inadequate requirements.,Vista,Negative
+"The keyboard, which generally felt okay even for someone used to a desktop keyboard, now looks terrible.",keyboard,Negative
+"The keyboard, which generally felt okay even for someone used to a desktop keyboard, now looks terrible.",desktop keyboard,Neutral
+The display is awesome.,display,Positive
+The mouse is a little bit different than what you're used to though- it has one big flat panel and one full bar (instead of two separate ones) to click with- but you get used to it quite quickly.,mouse,Neutral
+It took several weeks just to get them to acknowledge that I owned the warranty.,warranty,Negative
+The keyboard is like no other laptop keyboard.,keyboard,Positive
+The keyboard is like no other laptop keyboard.,keyboard,Positive
+Every driver on the drivers/applications DVD is everything you will need for a reload.,driver,Positive
+Every driver on the drivers/applications DVD is everything you will need for a reload.,drivers/applications DVD,Positive
+I called their repair depot as was told they would send Me a new box to return the computer to the repair depot.,repair depot,Neutral
+I called their repair depot as was told they would send Me a new box to return the computer to the repair depot.,repair depot,Neutral
+It's also fairly easy to use the Operating System.,Operating System,Positive
+"I know that ASUS is known for making motherboards, but this is the worst computer experience that I have ever had.",motherboards,Positive
+We figure that after everything HIS pc actually ended up costing $350 more than my original Mac.,costing,Negative
+So having the AC plug go out on me and get lose or I could actually here it inside my computer on two of the three times is not good.,AC plug,Negative
+Peformance is good for the price.,Peformance,Positive
+Peformance is good for the price.,price,Positive
+The computer is currently in West Verginia doe to the method of shipping choosen by Toshiba.,shipping,Negative
+Summary: HP knew they were shipping out bad BIOS and did nothing proactive to resolve it.,BIOS,Negative
+I had 3 months when the ports started going out.,ports,Negative
+"The improvements to the OS have been relatively gradual, but substantive.",OS,Positive
+It is super easy to use.,use,Positive
+Many of my classmates computers hard drives crashed.,hard drives,Negative

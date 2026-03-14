@@ -1,0 +1,201 @@
+Sentence,Aspect Term,Polarity
+Its also FUN to use!,use,Positive
+"The graphics and screen are stunning and although I was a PC person, I was able to understand how to use a mac fairly quickly.",graphics,Positive
+"The graphics and screen are stunning and although I was a PC person, I was able to understand how to use a mac fairly quickly.",screen,Positive
+"WIth the upgraded memory, the MacBook Pro never has an issue running many many applications at once!",upgraded memory,Positive
+"WIth the upgraded memory, the MacBook Pro never has an issue running many many applications at once!",applications,Positive
+"WIth the upgraded memory, the MacBook Pro never has an issue running many many applications at once!",running,Positive
+"Simple to use, and great graphics.",graphics,Positive
+"Simple to use, and great graphics.",use,Positive
+The internet speed is spectacular.,internet speed,Positive
+They claim call center is still down.,call center,Negative
+Mac also has many apps and programs that are quite cheap or free.,apps,Positive
+Mac also has many apps and programs that are quite cheap or free.,programs,Positive
+"My husband uses it mostly for games, email and music.",games,Neutral
+I just took the broken cords into the Apple store and they gave me new ones.,cords,Positive
+"Apparently under the screen there are 2 little screws and when the screen gets moved back and forth, they come loose.",screen,Negative
+"Apparently under the screen there are 2 little screws and when the screen gets moved back and forth, they come loose.",screen,Negative
+"Being a PC user my whole life, it's taking a bit of time to adapt to the OS of a Mac but I'm finding my way around.",OS,Positive
+The computer will constantly be getting hot and burning your leg unless you go through the hassle of taking off the entire back of it just to clean out the fan.,fan,Negative
+"I have in the past gotten superfine sandpaper and ""fixed"" the edges by rounding them off.",edges,Negative
+Downfalls: sharp edges.,edges,Negative
+i needed one to be able to carry to work everyday and this one seems to fit all of the criteria.,carry,Positive
+The screen is gorgeous - yummy good.,screen,Positive
+"Did I mention everything about it, from size to weight to keyboard screams BULK?",size,Negative
+"Did I mention everything about it, from size to weight to keyboard screams BULK?",weight,Negative
+"Did I mention everything about it, from size to weight to keyboard screams BULK?",keyboard,Negative
+I had it four months when my disc drive refused to open.,disc drive,Negative
+"So, after Apple replaced the hard drive I enjoyed another 4 months of my new computer, until it froze this morning--completely.",hard drive,Negative
+"Once again, I was told it was the suspicious  power supply  problem.",power supply,Negative
+"The Macbook starts fast, doesn't crash, has a fantastic display, is small and light (I have the 13.3"" model), and isn't always complaining about updates, lost connections, errors, blue screens, etc.",display,Positive
+"The Macbook starts fast, doesn't crash, has a fantastic display, is small and light (I have the 13.3"" model), and isn't always complaining about updates, lost connections, errors, blue screens, etc.",starts,Positive
+Unable to boot up this brand new laptop.,boot up,Negative
+"In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.",Pages,Positive
+"In addition, all the design tools on Pages and Keynotes makes it much easier to create professional looking documents and presentations.",Keynotes,Positive
+"Â I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",hard drive,Negative
+"Â I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",mother board,Negative
+"Â I actually had the hard drive replaced twice, the mother board once, the dvd drive twice, then they FINALLY agreed to replace it, (ALL OF THIS IN LESS THAN 1 1/2 YEARS!",dvd drive,Negative
+"The guy then said that if I insist on having the hinge tightened, they can do it for me but I have to accept the condition after the ""repair"".",hinge,Negative
+"The port is secured to motherboard so when this  happens you can't see the plug at all, it's just gone.",motherboard,Negative
+"The port is secured to motherboard so when this  happens you can't see the plug at all, it's just gone.",port,Negative
+"The port is secured to motherboard so when this  happens you can't see the plug at all, it's just gone.",plug,Negative
+"I love the feel of the key board, as well as the trackpad.",key board,Positive
+"I love the feel of the key board, as well as the trackpad.",trackpad,Positive
+Now I have the best of both worlds with all of the power and ease of the Mac!,power,Positive
+Now I have the best of both worlds with all of the power and ease of the Mac!,ease,Positive
+Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.,connection card,Negative
+Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.,warranty,Negative
+Now the machine won't connect and Toshiba says that they did replace the connection card in May but they only warranty the repair for 30 days and now I'm out of warranty even though this has been a constant 5 month occurance since I bought the netbook.,warranty,Negative
+"But, buy this model and just purchase 4GB of RAM (2x2GB for $92 or 1x4GB for $99), and save yourself $100 than the other model with 8GB of RAM.",4GB of RAM,Neutral
+"But, buy this model and just purchase 4GB of RAM (2x2GB for $92 or 1x4GB for $99), and save yourself $100 than the other model with 8GB of RAM.",8GB of RAM,Neutral
+"If you're looking for something to fly through those massive spreadsheets or play a graphics-intensive game, you'd be better off getting a machine aimed at that segment of the market.",game,Negative
+"Browsing, also, was no problem for me when I used itunes ( which usually slows down my PC ).",Browsing,Positive
+"Browsing, also, was no problem for me when I used itunes ( which usually slows down my PC ).",itunes,Neutral
+"Again, decent comp for the price, and I was in need of one quickly as my other laptop died on me.",price,Positive
+so in a brief summary i would have to say that i would not recommend dell vostro 1000 to anyone due to it being a down right awful setup so in my opinion you should steer clear of them if you want a decent laptop.,setup,Negative
+"My friend just had to replace his entire motherboard, so did my wife, and it looks like I will have to as well.",motherboard,Negative
+"Â  Toshiba customer services will indirectly deal with your problems by constantly tranferring you from one country to another, and I am not kidding you, I called different hours of the day and you'll get someone else from another country trying to get you to tell them your life story all over again, since they make it sound like they don't have your history list of your calls right in front of them.",Toshiba customer services,Negative
+Quality Display  I was surprised with the performance and quality of this HP Laptop.,Quality Display,Positive
+Quality Display  I was surprised with the performance and quality of this HP Laptop.,performance,Positive
+Quality Display  I was surprised with the performance and quality of this HP Laptop.,quality,Positive
+The battery life also doesn't keep up with the claim but still I think macbook is much ahead from the rest of the pack.,battery life,Negative
+The battery life also doesn't keep up with the claim but still I think macbook is much ahead from the rest of the pack.,battery life,Negative
+The internet capabilities are also very strong and picks up signals very easily.,internet capabilities,Positive
+"Its fast, has High definition quality in the videos.",High definition quality,Positive
+"Speakers don't get that loud, but good enough.",Speakers,Neutral
+Another Great thing is the Beast graphics.,Beast graphics,Positive
+The ease of set up was terrific.,set up,Positive
+Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome.,wall charger,Positive
+Everything I have tried has worked and I never have to carry the wall charger cause the battery is so awesome.,battery,Positive
+"Screen is crystal clear, yes it's small - but it's a netbook!",Screen,Positive
+The battery life is probably an hour at best.,battery life,Negative
+This is a review of windows vista system.,windows vista system,Neutral
+"cosmetically, the only thing they changed was 2 of the Function keys at the top.",Function keys,Neutral
+But sadly the replacement froze-up while updating the BIOS again and shut down and would not turn back on.,BIOS,Negative
+Â  There's literally no way to make it sing with Vista.,Vista,Negative
+Screen size is perfect for portable use in any environment.,Screen size,Positive
+"First, it does not have a push button to open the lid.",push button,Negative
+"First, it does not have a push button to open the lid.",lid,Negative
+"I used to build my own desktops from the component parts, and recently my 7 year old Pentium 4 with HT 1 GB ram SATA desktop stopped working (this was a rock star 7 years ago).",Pentium 4,Neutral
+"I used to build my own desktops from the component parts, and recently my 7 year old Pentium 4 with HT 1 GB ram SATA desktop stopped working (this was a rock star 7 years ago).",1 GB ram,Neutral
+I now realize that my $900 would have been better spent on a Windows laptop.,Windows,Positive
+) And printing from either word processor is an adventure.,word processor,Negative
+"After purchasing this thing, I find out that I need a special interface device to connect my camera, and that it cannot be purchased at the store - only on line.",interface device,Negative
+Another included program that is laughable is the chess game.,included program,Negative
+"Yes, I thought the expese was a little much, but I now realize you get what you pay for.",expese,Positive
+"It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.",Microsoft Office apps,Positive
+"It works great for general internet use, Microsoft Office apps, home bookkeeping, etc.",internet use,Positive
+"The price was very good, and the product is top quality.",price,Positive
+"The price was very good, and the product is top quality.",quality,Positive
+It played various games without problems and ran aero smoothly and flawlessly.,games,Positive
+It played various games without problems and ran aero smoothly and flawlessly.,aero,Positive
+Â  The screen almost looked like a barcode when it froze.,screen,Negative
+"From the get-go, the M6809 was unsteady in its operation;",operation,Negative
+"Its small enough where I can take it pretty much anywhere, but still has a big enough screen to get everything done.",screen,Positive
+"It even has a great webcam, and Skype works very well.",webcam,Positive
+"It even has a great webcam, and Skype works very well.",Skype,Positive
+"I love the solid machined aluminum frame, and the keyboard is the best of any laptop I've used.",machined aluminum frame,Positive
+"I love the solid machined aluminum frame, and the keyboard is the best of any laptop I've used.",keyboard,Positive
+You can even run a parallels type program easily and run any leftover PC software that you absolutely cannot be without.,parallels type program,Positive
+You can even run a parallels type program easily and run any leftover PC software that you absolutely cannot be without.,software,Positive
+This computer I used daily nice compact design.,design,Positive
+"The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft.",ATI graphics card,Positive
+"The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft.",Intel built-in card,Neutral
+"The ATI graphics card is a huge plus, definitely a good value if you need to be able to run some slightly older games that a Intel built-in card would have trouble with, such as Half-Life 2 or even World of Warcraft.",games,Positive
+It was hard to handle and operate at school.,handle,Negative
+It was hard to handle and operate at school.,operate,Negative
+It has easy to use features and all the speed and power I could ask for.,features,Positive
+It has easy to use features and all the speed and power I could ask for.,speed,Positive
+It has easy to use features and all the speed and power I could ask for.,power,Positive
+"My power supply cord developed exposed wires within the first year of ownership, so it was covered by the Applecare warranty plan.",power supply cord,Negative
+"My power supply cord developed exposed wires within the first year of ownership, so it was covered by the Applecare warranty plan.",Applecare warranty plan,Positive
+I preferred the fit and feel of the 13 inch.,13 inch,Positive
+power supply went bad after 2 weeks --,power supply,Negative
+"The screen takes some getting use to, because it is smaller than the laptop.",screen,Negative
+I regret buying it before understanding how awful it is to use.,use,Negative
+The right speaker did not work.,right speaker,Negative
+Â  Dealing with the support drone on the other end of the chat was sheer torture.,support,Negative
+"The Final Cut Pro on this laptop is so fast and easy, and I can use this to seemlessly transfer all my work to my home computer, which is also a mac.",Final Cut Pro,Positive
+"The computer runs extremely slowly, whether opening Word or My Computer.",runs,Negative
+"The Mac Snow Leopard O/S is extremely easy to use, although very different than Win XP, Visa or Win7.",Mac Snow Leopard O/S,Positive
+"The Mac Snow Leopard O/S is extremely easy to use, although very different than Win XP, Visa or Win7.",Win XP,Neutral
+"The Mac Snow Leopard O/S is extremely easy to use, although very different than Win XP, Visa or Win7.",Visa,Neutral
+"The Mac Snow Leopard O/S is extremely easy to use, although very different than Win XP, Visa or Win7.",Win7,Neutral
+"The Mac Snow Leopard O/S is extremely easy to use, although very different than Win XP, Visa or Win7.",use,Positive
+"Startup in about 30 seconds, shutdown in 2-4 seconds, resume from sleep in 0-2 seconds.",Startup,Positive
+"Startup in about 30 seconds, shutdown in 2-4 seconds, resume from sleep in 0-2 seconds.",shutdown,Positive
+"Startup in about 30 seconds, shutdown in 2-4 seconds, resume from sleep in 0-2 seconds.",resume from sleep,Positive
+"The screen is nice and the images comes very clear, the keyboard and the fit just feels right.",screen,Positive
+"The screen is nice and the images comes very clear, the keyboard and the fit just feels right.",keyboard,Positive
+"The screen is nice and the images comes very clear, the keyboard and the fit just feels right.",fit,Positive
+I have only had PCs with Windows before so this takes a little getting use to.,Windows,Neutral
+super fast processor and really nice graphics card..,processor,Positive
+super fast processor and really nice graphics card..,graphics card,Positive
+"But sitting on a lap or on a desk in front of you it looks more than big enough (this could be because Im used to my Lenovo 10 tablet now) plus this is a great size if I want to unplug the external keyboard, mouse, and monitor to take it with me when I take photos and video.",size,Positive
+"But sitting on a lap or on a desk in front of you it looks more than big enough (this could be because Im used to my Lenovo 10 tablet now) plus this is a great size if I want to unplug the external keyboard, mouse, and monitor to take it with me when I take photos and video.",external keyboard,Neutral
+"But sitting on a lap or on a desk in front of you it looks more than big enough (this could be because Im used to my Lenovo 10 tablet now) plus this is a great size if I want to unplug the external keyboard, mouse, and monitor to take it with me when I take photos and video.",mouse,Neutral
+"But sitting on a lap or on a desk in front of you it looks more than big enough (this could be because Im used to my Lenovo 10 tablet now) plus this is a great size if I want to unplug the external keyboard, mouse, and monitor to take it with me when I take photos and video.",monitor,Neutral
+The only objection I have is that after you buy it the windows 7 system is a starter and charges for the upgrade.,windows 7 system,Negative
+"I dislike the weight and size, cubersome.",weight,Negative
+"I dislike the weight and size, cubersome.",size,Negative
+The wheel that turns the volume up and down doesn't work in real time.,wheel,Negative
+I cannot be happier with the service or product.,service,Positive
+"I do transcription work on the side, and the flatline keyboard makes typing quick and easy as well.",flatline keyboard,Positive
+Speakers doesn't sound that great.,Speakers,Negative
+"I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.",windows 7,Positive
+"I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.",ergonomics,Negative
+"I love windows 7 but i can't give Toshiba any credit for that, unless y'all get serious about ergonomics and making required connections less obtrusive i will be looking to different manufacturer next time.",connections,Negative
+"After numerous calls to Applecare tech support, I was directed to send in my computer;",Applecare tech support,Neutral
+"The ""abuse"" is that I pushed the power plug in too hard.",power plug,Neutral
+The resolution on the screen is almost pure HD.,resolution on the screen,Positive
+"With all the programs that came with it, such as iLife and iWork, I was set from the very beginning.",programs,Positive
+"With all the programs that came with it, such as iLife and iWork, I was set from the very beginning.",iLife,Positive
+"With all the programs that came with it, such as iLife and iWork, I was set from the very beginning.",iWork,Positive
+"Not sure how I recommend it for quality gaming, as I have a desktop rig for that reason.",gaming,Neutral
+"Great value, fast delivery- Computer works as if brand new, no problems, very pleased",delivery,Positive
+"Great value, fast delivery- Computer works as if brand new, no problems, very pleased",value,Positive
+The Internet Explorer was very slow from the very beginning.,Internet Explorer,Negative
+The AC power port becomes loose over time,AC power port,Negative
+"As a user of a PC, I will will admit that the macBook Pro has a better running system in which I found myself ""Getting the job done quicker.",running system,Positive
+"There are no gold key numbers too intall programs, you must use the serial numbers that it does not accept and then things are limited as far a working because they are only good for a short time.",programs,Negative
+and they replaced the awesome ergonomic small lightweight power supply with a power supply that weighed more than the machine itself.,power supply,Positive
+and they replaced the awesome ergonomic small lightweight power supply with a power supply that weighed more than the machine itself.,power supply,Negative
+Enjoy that Toshib force and durability unparalleled,force,Positive
+Enjoy that Toshib force and durability unparalleled,durability,Positive
+Which is great I am running Vista Business and scored a 5.X on the index I have never seen a windows machine have a total score in the 5's.,Vista Business,Positive
+"I use the computer to basically check emails, surf the web, print coupons and for my college papers.",surf the web,Neutral
+"We love the size of the screen, although it is still lightweight and very easy to tote around.",size of the screen,Positive
+"We love the size of the screen, although it is still lightweight and very easy to tote around.",tote,Positive
+so the fact that the computer does not work on the 24 twenty fourth day is my fault.,work,Negative
+"I would definitely reccomend this if you are in the market for an easy to use, stylish, fun, awesome computer.",use,Positive
+Â  the battery is irreplaceable.,battery,Negative
+"If you want a little more custom ability, drop a few bucks and upgrade to one of the more robust versions of Win 7 and grab a 2GB stick of memory to spice it all up a bit more.",Win 7,Positive
+"If you want a little more custom ability, drop a few bucks and upgrade to one of the more robust versions of Win 7 and grab a 2GB stick of memory to spice it all up a bit more.",2GB stick of memory,Positive
+"I have never really been big on downloading anything so I wasn't too worried about getting a virus, plus I thought I was protected by Norton.",Norton,Neutral
+"The internet was locekd and froze every time it was trying to be used, and the command prompt would not work at all.",internet,Negative
+"The internet was locekd and froze every time it was trying to be used, and the command prompt would not work at all.",command prompt,Negative
+It's software and speed enable it to do amazing things.,software,Positive
+It's software and speed enable it to do amazing things.,speed,Positive
+Could not keep up with me and finally the hard drive went out.,hard drive,Negative
+"I am most impressed with the programming, including the iPhoto.",programming,Positive
+"I am most impressed with the programming, including the iPhoto.",iPhoto,Positive
+Speakers too small to be of any real use.,Speakers,Negative
+"I upgraded it's RAM to 2GB, I am very happy with it.",RAM,Positive
+I purchased a Toshiba Satellite M60 (with harman/kardon speakers!) in December of 2005.,speakers,Neutral
+They should have included more memory on their computers if they knew Vista would run slowly.,memory,Negative
+They should have included more memory on their computers if they knew Vista would run slowly.,Vista,Negative
+Battery life could be better but overall for the price and Toshiba's reputation for laptops it's great!,Battery life,Negative
+Battery life could be better but overall for the price and Toshiba's reputation for laptops it's great!,price,Positive
+"The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",battery,Negative
+"The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",charge,Negative
+"The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",charge,Negative
+Â  After the warrenty expired the hard drive went bad and it would have cost more to fix then to replace.,warrenty,Neutral
+Â  After the warrenty expired the hard drive went bad and it would have cost more to fix then to replace.,hard drive,Negative
+"The Windows 7 Starter is, in my opinion, a great way to think about using your netbook: basics, basics, basics.",Windows 7 Starter,Positive
+The neat and organized icon list is a welcome change from cluttered and confusing desktop icons.,icon list,Positive
+The neat and organized icon list is a welcome change from cluttered and confusing desktop icons.,desktop icons,Negative
+I purchased this netbook after my original Toshiba laptop crashed right after the warranty expired.,warranty,Neutral
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",price,Positive
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",performance,Positive
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",built,Positive
+"Apparently well-built and gorgeous to look at, the i5 MacBook Pro is a winning combination of price and performance.",look,Positive

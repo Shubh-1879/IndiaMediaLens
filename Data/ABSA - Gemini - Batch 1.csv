@@ -1,0 +1,278 @@
+Record_ID,Term,Polarity
+1,battery life,positive
+2,service center,negative
+2,sales team,neutral
+3,quality,positive
+3,GUI,positive
+3,applications,positive
+3,use,positive
+4,start up,positive
+4,overheat,positive
+5,features,positive
+5,iChat,positive
+5,Photobooth,positive
+5,garage band,positive
+6,features,positive
+7,GUI,negative
+7,screen,negative
+7,power light,negative
+7,hard drive light,negative
+8,screen,negative
+9,enclosure,positive
+9,razor edge,negative
+10,multi-touch gestures,positive
+10,tracking area,positive
+11,suite of software,positive
+12,speed,positive
+13,Windows 7,positive
+14,usb devices,negative
+16,system,negative
+17,Microsoft office,negative
+18,syncing,positive
+19,Monitor,positive
+20,boot up,negative
+21,help,negative
+22,battery,positive
+23,operating system,positive
+23,preloaded software,positive
+24,price,positive
+24,features,positive
+25,BIOS setup,negative
+26,WARRANTY SERVICE,negative
+27,brand,negative
+28,warranty,positive
+29,features,positive
+30,fan,negative
+31,Customer Service,negative
+31,technician,negative
+32,hard disc,negative
+32,windows,negative
+33,Drivers,positive
+33,BIOS update,negative
+34,Technical Support,negative
+35,browser,negative
+36,keyboard,negative
+37,defrags,neutral
+37,virus scan,neutral
+40,help,negative
+41,repaired,negative
+41,Warranty,negative
+42,Quality,positive
+43,webcam,positive
+44,email,neutral
+44,internet,neutral
+45,motherboard,negative
+46,system,negative
+47,charger,negative
+47,hardware,negative
+48,force quit,positive
+49,works,negative
+50,Windows 7,positive
+50,VMWare program,positive
+51,navigate,positive
+51,operating system,positive
+51,find files,positive
+52,warrenty,negative
+53,extended warranty,negative
+54,memory,neutral
+55,heated up,negative
+56,operating systems,negative
+57,charger,negative
+58,download songs,positive
+59,glass touchpad,positive
+60,hard drive,negative
+60,mother board,negative
+61,external speaker,positive
+61,sound,positive
+62,battery life,neutral
+62,upgrade,positive
+63,hardware,negative
+64,shipping,negative
+65,use,positive
+65,Mac software,positive
+65,Microsoft software,negative
+66,editing,negative
+66,forward delete key,negative
+67,ease of use,positive
+67,service,positive
+67,phone assistance,positive
+67,genius bar,positive
+68,battery life,positive
+69,recovery discs,positive
+70,Max Assurance,neutral
+71,migration,neutral
+72,battery life,positive
+73,battery timer,negative
+74,Temperatures,positive
+75,service,neutral
+76,virus protection,positive
+77,bluetooth,negative
+78,hinge,negative
+79,games,neutral
+79,email,neutral
+80,responds,positive
+81,motherboard,negative
+82,hardware,negative
+83,motherboard,negative
+84,weight,positive
+84,use,positive
+85,representive,negative
+85,system,negative
+85,XP,positive
+86,WIndows 7,positive
+86,Vista,negative
+87,Keyboard,positive
+88,customer disservice,negative
+88,products,negative
+89,cooling system,negative
+90,render AVCHD movies,positive
+91,sales associate,positive
+92,Windows applications,neutral
+93,virus program,negative
+94,weighed,negative
+95,battery,negative
+96,bag,neutral
+97,color,positive
+98,keys,negative
+99,style,positive
+99,speed,positive
+99,cool factor,positive
+100,keyboard,positive
+101,mousepad,negative
+102,battery,negative
+103,sales,positive
+103,service,positive
+103,SUPPORT,negative
+104,desktop,positive
+105,speed,positive
+105,construction quality,positive
+105,longevity,positive
+106,keyboard,positive
+107,touch pad,neutral
+108,ease of use,positive
+108,security,positive
+110,preloaded software,positive
+111,webcam,negative
+112,vga port,positive
+113,battery life,positive
+114,keys,negative
+115,load,positive
+116,volume,negative
+116,mouse,negative
+117,touchpad,positive
+118,boots up,positive
+119,virus,negative
+120,look,positive
+120,feel,positive
+121,safari,negative
+121,Mozzilla firfox,positive
+122,Bluetooth,negative
+122,fingerprint reader driver,negative
+122,software,negative
+123,battery,positive
+123,speed,positive
+123,display,positive
+124,delivery,positive
+125,battery life,positive
+125,performance,positive
+126,applications,positive
+127,Resolution,negative
+127,appearance,negative
+127,cooling system,negative
+127,graphics card,negative
+128,webcam,negative
+128,mic,negative
+129,Windows Vista,negative
+130,board,negative
+130,power supply,negative
+131,ethernet,neutral
+132,drag and drop feature,positive
+133,webcam,negative
+134,sales tax,positive
+135,software packages,positive
+135,iWork,positive
+135,GarageBand,positive
+135,iMovie,positive
+136,screen,positive
+136,colors,positive
+136,resolution,positive
+137,monitor,negative
+138,iTunes,neutral
+139,Size,negative
+140,Toshiba-specific software,neutral
+141,plastic piece,negative
+142,camera,negative
+143,display,positive
+144,AMD Turin processor,positive
+145,warranty,positive
+146,start menu,negative
+147,internal bluray read/write drive,negative
+148,service tech,negative
+150,textured surface,positive
+151,screen,positive
+151,keyboard,positive
+152,iLife,positive
+152,Snow Leopard X,positive
+153,price tag,negative
+154,Mac OS,positive
+155,sound output quality,negative
+156,techie,negative
+157,use,positive
+157,weight,positive
+158,online help,positive
+159,service life,positive
+160,ports,negative
+161,price,positive
+161,look,positive
+162,keyboard,positive
+162,chiclet type keys,positive
+163,screen,negative
+163,travel,positive
+164,Runs,negative
+165,stock screen,negative
+166,gray color,positive
+167,volume buttons,negative
+168,processor,negative
+169,protector,positive
+170,power charging power cord,positive
+171,XP,positive
+171,Vista,negative
+172,use,positive
+172,graphics,positive
+173,Mac OS,positive
+174,support,positive
+174,products,negative
+175,Geek Squad,positive
+176,graphics quality,positive
+177,Appleworks,negative
+177,browser,negative
+178,paint,negative
+178,keyboard,negative
+179,service department,neutral
+180,warrenty,positive
+181,backup hard disk,neutral
+182,CD drive,negative
+183,screen size,positive
+184,loads,positive
+185,trackpad,negative
+186,games,negative
+187,human interface,neutral
+188,inbuilt applications,negative
+189,body,negative
+190,rendering videos,positive
+191,antivirus software,positive
+191,firewall,positive
+192,price,positive
+193,Apple team,positive
+194,Vista,negative
+195,video chat,negative
+196,portable mouse,neutral
+197,Fan vents,positive
+198,software,positive
+198,load,positive
+198,use,positive
+198,viruses,positive
+199,installation,negative
+200,power,positive
+200,storage,positive
+200,abilitiy,positive

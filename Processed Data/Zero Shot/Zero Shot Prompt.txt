@@ -1,0 +1,31 @@
+ Guidelines summary:
+
+
+
+These guidelines detail Aspect Based Sentiment Analysis Annotation for restaurant and laptop customer reviews. The
+
+aim is to determine aspect terms and their sentiment polarities within sentences. Aspect terms are words or phrases
+
+describing the specific attributes of the target entity. Sentiment polarity can be positive, negative, or neutral. For
+
+aspect terms, annotators should mark nominal phrases explicitly mentioning aspects and verbs or verbal names of
+
+aspects. Subjectivity indicators, references to the target entity as a whole, and the name, type, or model of the laptop or
+
+restaurant should not be considered as aspect terms. Also, pronouns and implicit aspect terms should not be annotated.
+
+For sentiment polarity, an aspect term should be classified as positive or negative if the sentence expresses a positive or
+
+negative opinion. Neutral polarity should be assigned when a neutral sentiment or factual information is given about an
+
+aspect, or when the sentiment is inferred but not explicit.
+
+
+
+You will be given an excel file containing some sentences and respective aspect term(s) for each sentence. For each aspect term listed in the file, your task is to enter the term's polarity in the respective sentence in the "Polarity" column next to it. Make sure to complete this task for all aspect terms in the file. The output excel file shall have three columns:
+
+1. Sentence (Taken from original file without change)
+
+2. Aspect Term (Taken from original file without change)
+
+3. Polarity (annotated by Gemini Pro)

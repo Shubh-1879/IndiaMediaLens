@@ -1,0 +1,2269 @@
+[
+  {
+    "sentence": "Would like more trendy, high tech features.",
+    "aspects": [
+      {
+        "term": "features",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Keyboard is great but primary and secondary control buttons could be more durable.",
+    "aspects": [
+      {
+        "term": "Keyboard",
+        "polarity": "positive"
+      },
+      {
+        "term": "primary and secondary control buttons",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Screen is a bit glossy, but that's not too bad.",
+    "aspects": [
+      {
+        "term": "Screen",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I got it back again and was told the motherboard had been replaced, so I was now on the SECOND motherboard within 3 months.",
+    "aspects": [
+      {
+        "term": "motherboard",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Processor - When compared to my 3 week old Early 2011 edition there I barely experience any difference in performance (2.3 GHz v/s 2.4 GHz).",
+    "aspects": [
+      {
+        "term": "Processor",
+        "polarity": "neutral"
+      },
+      {
+        "term": "performance",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "They say it could be the motherboard again, but Dell",
+    "aspects": [
+      {
+        "term": "motherboard",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "2nd Best computer in the world only one way this computer might become the best is that it needs to upgreade patches to make less easier for people to hack into",
+    "aspects": [
+      {
+        "term": "patches",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Love the speed, especially!",
+    "aspects": [
+      {
+        "term": "speed",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It could be a perfect laptop if it would have faster system memory and its radeon 5850 would have DDR5 instead of DDR3.",
+    "aspects": [
+      {
+        "term": "system memory",
+        "polarity": "negative"
+      },
+      {
+        "term": "radeon 5850",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.",
+    "aspects": [
+      {
+        "term": "versions of these programs",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The speed gives you the power to work on these projects seamlessly, and multiple at a time if you sowish.",
+    "aspects": [
+      {
+        "term": "speed",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Awesome laptop and the perfect size to carry around in college.",
+    "aspects": [
+      {
+        "term": "size",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Â A MONTH LATER, we reinstall the OS (Vista).",
+    "aspects": [
+      {
+        "term": "OS",
+        "polarity": "neutral"
+      },
+      {
+        "term": "Vista",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Some problems can be fixed if you purchase new software, but there is no guarentee.",
+    "aspects": [
+      {
+        "term": "software",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "My real problem with it? The statement of 7 hour battery life is not just mere exaggeration -- it's a lie.",
+    "aspects": [
+      {
+        "term": "battery life",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The battery life is also relatively good.",
+    "aspects": [
+      {
+        "term": "battery life",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Â I definitely suggest getting an extended warranty, you will probably need it!",
+    "aspects": [
+      {
+        "term": "extended warranty",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.",
+    "aspects": [
+      {
+        "term": "use",
+        "polarity": "positive"
+      },
+      {
+        "term": "alerts",
+        "polarity": "positive"
+      },
+      {
+        "term": "tutorials",
+        "polarity": "positive"
+      },
+      {
+        "term": "features",
+        "polarity": "positive"
+      },
+      {
+        "term": "programs",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.",
+    "aspects": [
+      {
+        "term": "pop up windows",
+        "polarity": "positive"
+      },
+      {
+        "term": "web programming software",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Memory is upgradable.",
+    "aspects": [
+      {
+        "term": "Memory",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Web access through the 3G network is so slow, it's very frustrating and VERY DISAPPOINTING.",
+    "aspects": [
+      {
+        "term": "Web access",
+        "polarity": "negative"
+      },
+      {
+        "term": "3G network",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The large screen also helps when you are working in design based programs like Adobe Creative Suite.",
+    "aspects": [
+      {
+        "term": "screen",
+        "polarity": "positive"
+      },
+      {
+        "term": "Adobe Creative Suite",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Moral of the story:-Do not buy anything from companies that do not respect their customers.",
+    "aspects": []
+  },
+  {
+    "sentence": "This is my first Dell I heard their customer service was lacking and that they were working on improving it!",
+    "aspects": [
+      {
+        "term": "customer service",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "As well as having the plug in the computer come loose.",
+    "aspects": [
+      {
+        "term": "plug",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Second HDD cover has walls inside that need to be broken if you what to install one.",
+    "aspects": [
+      {
+        "term": "HDD cover",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "If you want more information on macs I suggest going to apple.com and heading towards the macbook page for more information on the applications.",
+    "aspects": [
+      {
+        "term": "applications",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Great product by Apple with the new great looking design.",
+    "aspects": [
+      {
+        "term": "design",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I love the keyboard.",
+    "aspects": [
+      {
+        "term": "keyboard",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I use iphoto all the time, which is a great program for anyone who is into photography - amateurs and experts alike.",
+    "aspects": [
+      {
+        "term": "iphoto",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The screen isn't huge, but that doesn't matter when I output media to the 50 inch LCD TV.",
+    "aspects": [
+      {
+        "term": "screen",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I will have to purchase Spy ware or Nortell for privacy protection.",
+    "aspects": [
+      {
+        "term": "Spy ware",
+        "polarity": "neutral"
+      },
+      {
+        "term": "Nortell",
+        "polarity": "neutral"
+      },
+      {
+        "term": "privacy protection",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I was said it's videocard.",
+    "aspects": [
+      {
+        "term": "videocard",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "For the price and what I get out of it has exceeded my expectations.",
+    "aspects": [
+      {
+        "term": "price",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "If your time is worth anything to you, if you are tired of rebooting, reformatting, reinstalling, trying to find drivers, if you want a computer to work for you for a change, make the change to this computer.",
+    "aspects": [
+      {
+        "term": "rebooting",
+        "polarity": "negative"
+      },
+      {
+        "term": "reformatting",
+        "polarity": "negative"
+      },
+      {
+        "term": "reinstalling",
+        "polarity": "negative"
+      },
+      {
+        "term": "drivers",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The only thing I wish is the 15 inch MacBook Pro has much better speakers on the side of the keyboard.",
+    "aspects": [
+      {
+        "term": "speakers",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Â Now, as easy as it is to use, and I do think it is a great STARTER laptop.",
+    "aspects": [
+      {
+        "term": "use",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Setting would change for some reason, the screen size would change on it's own, like the pixel sizes and whatnot.",
+    "aspects": [
+      {
+        "term": "Setting",
+        "polarity": "negative"
+      },
+      {
+        "term": "screen size",
+        "polarity": "negative"
+      },
+      {
+        "term": "pixel sizes",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "It had some kind of pre installed software update that completely shut the computer down when you clicked it.",
+    "aspects": [
+      {
+        "term": "software update",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Ever since I bought this laptop, so far I've experience nothing but constant break downs of the laptop and bad customer services I received over the phone with toshiba customer services hotlines.",
+    "aspects": [
+      {
+        "term": "customer services",
+        "polarity": "negative"
+      },
+      {
+        "term": "customer services hotlines",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Also, the space bar makes a noisy click every time you use it.",
+    "aspects": [
+      {
+        "term": "space bar",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "iPhotos is an excellent program for storing and organizing photos.",
+    "aspects": [
+      {
+        "term": "iPhotos",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Other than that its a great performing machine and well meets all my needs and more.",
+    "aspects": [
+      {
+        "term": "performing",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Called tech support and got the usual Acer \"We don't support software but for $$$ we can help you\" I explained there was no software involved in booting.",
+    "aspects": [
+      {
+        "term": "tech support",
+        "polarity": "negative"
+      },
+      {
+        "term": "booting",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The programs are great, like iphoto (love the editing capabilities), imail (which can incorporate with the address book on the ipod and ipad), imovie, etc.",
+    "aspects": [
+      {
+        "term": "programs",
+        "polarity": "positive"
+      },
+      {
+        "term": "iphoto",
+        "polarity": "positive"
+      },
+      {
+        "term": "editing capabilities",
+        "polarity": "positive"
+      },
+      {
+        "term": "imail",
+        "polarity": "positive"
+      },
+      {
+        "term": "imovie",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The only thing I didn't learn in my research was the software I would need like privacy protection and warranty protection, in case it gets broken, or crashes etc.",
+    "aspects": [
+      {
+        "term": "software",
+        "polarity": "neutral"
+      },
+      {
+        "term": "privacy protection",
+        "polarity": "neutral"
+      },
+      {
+        "term": "warranty protection",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Comfterbale to use light easy to transport.",
+    "aspects": [
+      {
+        "term": "use",
+        "polarity": "positive"
+      },
+      {
+        "term": "transport",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The Computer itself is a good product but the repair depot stinks.",
+    "aspects": [
+      {
+        "term": "repair depot",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I thought the price was great for the specs.",
+    "aspects": [
+      {
+        "term": "price",
+        "polarity": "positive"
+      },
+      {
+        "term": "specs",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "the only down fall is that it has no cd drive but i found that they are very cheap to by and also very portable making this the best friend to someone who is always looking for more space then they have.",
+    "aspects": [
+      {
+        "term": "cd drive",
+        "polarity": "negative"
+      },
+      {
+        "term": "space",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "So, the hard disk capacity really doesn't matter to me.",
+    "aspects": [
+      {
+        "term": "hard disk capacity",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Keys stick periodically and I havent had the laptop for 45 days yet.",
+    "aspects": [
+      {
+        "term": "Keys",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I also like that you can scroll down in a window using two fingers on the trackpad.",
+    "aspects": [
+      {
+        "term": "trackpad",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Everything from the design to the OS is simple and to the point.",
+    "aspects": [
+      {
+        "term": "design",
+        "polarity": "positive"
+      },
+      {
+        "term": "OS",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I'v spent as much for shipping as I would to buy a new netbook -- of course a different brand.",
+    "aspects": [
+      {
+        "term": "shipping",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I personally like the gaming look but needed a machine that delivered gaming performance while still looking professional in front of my customers.",
+    "aspects": [
+      {
+        "term": "gaming look",
+        "polarity": "positive"
+      },
+      {
+        "term": "gaming performance",
+        "polarity": "positive"
+      },
+      {
+        "term": "looking",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "This just keeps having it's hard drive replaced!",
+    "aspects": [
+      {
+        "term": "hard drive",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "When you look at the specs on Apple products in comparison to a Dell or a HP, yes they do seem to offer less for a higher cost.",
+    "aspects": [
+      {
+        "term": "specs",
+        "polarity": "negative"
+      },
+      {
+        "term": "cost",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The only downfall is the volume control.",
+    "aspects": [
+      {
+        "term": "volume control",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Very fast boot up and shut down.",
+    "aspects": [
+      {
+        "term": "boot up",
+        "polarity": "positive"
+      },
+      {
+        "term": "shut down",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I finally decided on this laptop because it was the right price for what I need it.",
+    "aspects": [
+      {
+        "term": "price",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "If internet connectivity is important I would recommend going with a dell net book for 50 bucks more, or buy a USB wireless card.",
+    "aspects": [
+      {
+        "term": "internet connectivity",
+        "polarity": "neutral"
+      },
+      {
+        "term": "USB wireless card",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I had read online that some users were having sound problems.",
+    "aspects": [
+      {
+        "term": "sound",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "My last computer, a Toshiba, cost only $400, and worked like a charm for many years.",
+    "aspects": [
+      {
+        "term": "worked",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It discharges too quickly.",
+    "aspects": [
+      {
+        "term": "discharges",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "But to be honest, the compatibility issues and the other little quirks make me think I ll buy a PC next time.",
+    "aspects": [
+      {
+        "term": "compatibility",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Then it ceased charging at all.",
+    "aspects": [
+      {
+        "term": "charging",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I do not experience a lot of heat coming out of it, however I would highly suggest purchasing a stand however, due to the nature of the design of the macbook as it is one very large heat sink.",
+    "aspects": [
+      {
+        "term": "heat",
+        "polarity": "positive"
+      },
+      {
+        "term": "design",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "*=Webcam is a bit laggy, not the greatest.",
+    "aspects": [
+      {
+        "term": "Webcam",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I am not much of a computer techie, so I can understand some ofÂ the internal problems, though I do have trend micro as an antiviral program.",
+    "aspects": [
+      {
+        "term": "internal problems",
+        "polarity": "negative"
+      },
+      {
+        "term": "antiviral program",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "The computer continued to give me issues and in Late June it completely died again and I tried to call Acer again to get it fixed and they refused to help me, they said my warrenty was up and hung up on me.",
+    "aspects": [
+      {
+        "term": "warrenty",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I've haven't had any major problems with the laptop except that the plastic piece that covers the usb port wires have all come off.",
+    "aspects": [
+      {
+        "term": "plastic piece",
+        "polarity": "negative"
+      },
+      {
+        "term": "usb port wires",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Wonderful sleek case design is only on the outside.",
+    "aspects": [
+      {
+        "term": "case design",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It is speedy when connected wirelessly to any network regardless if the connection is weak or not.",
+    "aspects": [
+      {
+        "term": "speedy",
+        "polarity": "positive"
+      },
+      {
+        "term": "connected",
+        "polarity": "positive"
+      },
+      {
+        "term": "connection",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The pricing is very competitive.",
+    "aspects": [
+      {
+        "term": "pricing",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Connecting to my wireless router via built-in wireless took no time at all.",
+    "aspects": [
+      {
+        "term": "built-in wireless",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "This computer is exceptionally thin for it's screen size and processing power.",
+    "aspects": [
+      {
+        "term": "screen size",
+        "polarity": "positive"
+      },
+      {
+        "term": "processing power",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I have not had a problem with the applications quitting or freezing.",
+    "aspects": [
+      {
+        "term": "applications",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Maybe this is virus related, maybe not, but the computer has locked up many times, and on two occasions, the screen has simply gone black.",
+    "aspects": [
+      {
+        "term": "screen",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "This wiped out several programs that were installed on the computer when it was bought.",
+    "aspects": [
+      {
+        "term": "programs",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "It's graphics aren't bad at all, for the lower end of the MacBook Pro spectrum, easily capable of running StarCraft II and other games with comparable graphics.",
+    "aspects": [
+      {
+        "term": "graphics",
+        "polarity": "positive"
+      },
+      {
+        "term": "running",
+        "polarity": "positive"
+      },
+      {
+        "term": "games",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I have Vista, so I am unable to install and uninstallÂ some programs.",
+    "aspects": [
+      {
+        "term": "Vista",
+        "polarity": "negative"
+      },
+      {
+        "term": "install",
+        "polarity": "negative"
+      },
+      {
+        "term": "uninstall",
+        "polarity": "negative"
+      },
+      {
+        "term": "programs",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The screen is bright and vivid and the keyboard is very easy to use, very important for use quick typers.",
+    "aspects": [
+      {
+        "term": "screen",
+        "polarity": "positive"
+      },
+      {
+        "term": "keyboard",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "the mouse jumps around all the time and it clicks stuff i dont want it too.",
+    "aspects": [
+      {
+        "term": "mouse",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "For those that care about noise this thing doesn't really make any;",
+    "aspects": [
+      {
+        "term": "noise",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I had my IWORKS, Itunes, Email, MS Office, network and printers set up and completely working perfectly within an hour.",
+    "aspects": [
+      {
+        "term": "IWORKS",
+        "polarity": "positive"
+      },
+      {
+        "term": "Itunes",
+        "polarity": "positive"
+      },
+      {
+        "term": "Email",
+        "polarity": "positive"
+      },
+      {
+        "term": "MS Office",
+        "polarity": "positive"
+      },
+      {
+        "term": "network",
+        "polarity": "positive"
+      },
+      {
+        "term": "printers",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The macbooks are small enough to be very portable yet hold tons of information and performance.",
+    "aspects": [
+      {
+        "term": "performance",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The only downfall is a lot of the software I have won't work with Mac and iWork is not worth the price of it.",
+    "aspects": [
+      {
+        "term": "software",
+        "polarity": "negative"
+      },
+      {
+        "term": "iWork",
+        "polarity": "negative"
+      },
+      {
+        "term": "price",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Whenever tried to turn it on, it would restart as soon as the BIOS launched Windows (or Winblows, as I like ot call it).",
+    "aspects": [
+      {
+        "term": "BIOS",
+        "polarity": "negative"
+      },
+      {
+        "term": "Windows",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "BUT there's this application called Boot Camp which allows you to add another OS X like Windows.",
+    "aspects": [
+      {
+        "term": "Boot Camp",
+        "polarity": "positive"
+      },
+      {
+        "term": "OS X",
+        "polarity": "positive"
+      },
+      {
+        "term": "Windows",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "The mousepad is a huge pain in the arse!",
+    "aspects": [
+      {
+        "term": "mousepad",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I hope to edit this in the next few hours, I am going to try to install my own copy of Windows 7.",
+    "aspects": [
+      {
+        "term": "Windows 7",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": ") I also purchased Applecare for $300, which is a three year extended warranty, since I ve never seen any laptop that lasted more than two.",
+    "aspects": [
+      {
+        "term": "Applecare",
+        "polarity": "neutral"
+      },
+      {
+        "term": "extended warranty",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I run windows via bootcamp for the couple programs I do not want to buy a mac version of, like my cad programs.",
+    "aspects": [
+      {
+        "term": "windows",
+        "polarity": "neutral"
+      },
+      {
+        "term": "bootcamp",
+        "polarity": "neutral"
+      },
+      {
+        "term": "programs",
+        "polarity": "neutral"
+      },
+      {
+        "term": "mac version",
+        "polarity": "neutral"
+      },
+      {
+        "term": "cad programs",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Whenever I call Dell about an unrelated problem, they ask me if my laptop is running slowly and if I'd like to purchase more memory for $75.",
+    "aspects": [
+      {
+        "term": "memory",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Â since thenÂ i have had minor problems with slow operation.",
+    "aspects": [
+      {
+        "term": "operation",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Registration/1st use is easy.",
+    "aspects": [
+      {
+        "term": "Registration/1st use",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Take your time and go through the tutorials patiently.",
+    "aspects": [
+      {
+        "term": "tutorials",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Â This time the mouse pad and right click key wouldn't work!",
+    "aspects": [
+      {
+        "term": "mouse pad",
+        "polarity": "negative"
+      },
+      {
+        "term": "right click key",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The first full charge of this battery got me only about 2 full hours.",
+    "aspects": [
+      {
+        "term": "charge",
+        "polarity": "negative"
+      },
+      {
+        "term": "battery",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I bought a cordless mouse for it, but don't always take it out;",
+    "aspects": [
+      {
+        "term": "cordless mouse",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "i am a huge computer person i love anykind of computer that works well, but when i got this one i was so happy with the way it works and how it runs its amazing.",
+    "aspects": [
+      {
+        "term": "works",
+        "polarity": "positive"
+      },
+      {
+        "term": "runs",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It took Toshiba tech support 4 calls and 4 different techs to correct the problem.",
+    "aspects": [
+      {
+        "term": "tech support",
+        "polarity": "negative"
+      },
+      {
+        "term": "techs",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "They only stay charged a little over an hour.",
+    "aspects": [
+      {
+        "term": "charged",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The 4 USB ports are nice, but the two on the side only work now and then.",
+    "aspects": [
+      {
+        "term": "USB ports",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Â I could not find a phone number anywhere to call an actual live person for tech support and had to result the their online chat.",
+    "aspects": [
+      {
+        "term": "tech support",
+        "polarity": "negative"
+      },
+      {
+        "term": "online chat",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Keyboard could use some trimming.",
+    "aspects": [
+      {
+        "term": "Keyboard",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Its white color is stylish for college students and easy to take to carry and take to classes.",
+    "aspects": [
+      {
+        "term": "color",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Returned laptop for repair a 2nd time and it came back with obvious physical damage (keyboard bulging and speaker grill pressed in), buttons not working and USB ports inoperative.",
+    "aspects": [
+      {
+        "term": "repair",
+        "polarity": "negative"
+      },
+      {
+        "term": "keyboard",
+        "polarity": "negative"
+      },
+      {
+        "term": "speaker grill",
+        "polarity": "negative"
+      },
+      {
+        "term": "buttons",
+        "polarity": "negative"
+      },
+      {
+        "term": "USB ports",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "When I am next to my router on my HP I get full service, on my Eee PC I get 3 bars.",
+    "aspects": [
+      {
+        "term": "service",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I got assurances from 2 different people that the remaining 10 months of my warranty would transfer to the new computer.",
+    "aspects": [
+      {
+        "term": "warranty",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "The letter A stopped working after the first week.",
+    "aspects": [
+      {
+        "term": "letter A",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "This is what I call a good after sales service.",
+    "aspects": [
+      {
+        "term": "after sales service",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I took off a star because the machine has a lot of junk software on it.",
+    "aspects": [
+      {
+        "term": "software",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "With what I do know how to do, the computer works beautiful.",
+    "aspects": [
+      {
+        "term": "works",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Tried to make a recovey disk wouldnt get passed the first recovery disk.",
+    "aspects": [
+      {
+        "term": "recovey disk",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Most everything is fine with this machine: speed, capacity, build.",
+    "aspects": [
+      {
+        "term": "speed",
+        "polarity": "positive"
+      },
+      {
+        "term": "capacity",
+        "polarity": "positive"
+      },
+      {
+        "term": "build",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "For the same price, you get a lot more in the Asus....1920x1080 res.",
+    "aspects": [
+      {
+        "term": "price",
+        "polarity": "positive"
+      },
+      {
+        "term": "res",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I made a photo book as a gift, on my computer, pushed \"Buy\" and it drew from my iTunes account and sent the book to my house, the book was of perfect quality-exactly how I had created it and looked better than I had even imagined.",
+    "aspects": [
+      {
+        "term": "iTunes account",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I use this for my tutoring business, and since I'm always bouncing from student to student, it is ideal for portability and battery life (yes, it gets the 8 hours as advertised!).",
+    "aspects": [
+      {
+        "term": "battery life",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It is in the best condition and has a really high quality.",
+    "aspects": [
+      {
+        "term": "condition",
+        "polarity": "positive"
+      },
+      {
+        "term": "quality",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "When it come time for warranty service to Toshiba you don't matter.",
+    "aspects": [
+      {
+        "term": "warranty service",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Â However the frozen screens kept happening.",
+    "aspects": [
+      {
+        "term": "screens",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "It is short on space, and downloads always had problems being completed, or were said to be 'corrupted'.",
+    "aspects": [
+      {
+        "term": "space",
+        "polarity": "negative"
+      },
+      {
+        "term": "downloads",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "3) Horrible customer support",
+    "aspects": [
+      {
+        "term": "customer support",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The LED backlit display makes my pictures pop so much more.",
+    "aspects": [
+      {
+        "term": "LED backlit display",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Apple is always great about the aesthetics of things, they always come up with good looking products.",
+    "aspects": [
+      {
+        "term": "aesthetics",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Runs smooth and quick.",
+    "aspects": [
+      {
+        "term": "Runs",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The downside to this netbook is pretty much the same for any netbook: screen size is not something I'd stare at for the entire 10-11 hours of battery life five days a week.",
+    "aspects": [
+      {
+        "term": "screen size",
+        "polarity": "negative"
+      },
+      {
+        "term": "battery life",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The graphics are great.",
+    "aspects": [
+      {
+        "term": "graphics",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "in 5 months the connect quality got worse and worse.",
+    "aspects": [
+      {
+        "term": "connect quality",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The big screen allows you to enjoy watching movies , pictures and etc!",
+    "aspects": [
+      {
+        "term": "screen",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "the headphone and mic jack are in front of touch-pad making the touch-pad hard to use when using headphones/mic, not to mention the laptop was designed for right handed person.",
+    "aspects": [
+      {
+        "term": "headphone and mic jack",
+        "polarity": "negative"
+      },
+      {
+        "term": "touch-pad",
+        "polarity": "negative"
+      },
+      {
+        "term": "designed",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "For the [$] price (special offer) this is a great laptop.",
+    "aspects": [
+      {
+        "term": "price",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "the manufacturer's warranty only covers replacement/repair of parts.",
+    "aspects": [
+      {
+        "term": "manufacturer's warranty",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "What I'd like is for the laptop to run well without having to purchase additional memory.",
+    "aspects": [
+      {
+        "term": "run",
+        "polarity": "positive"
+      },
+      {
+        "term": "memory",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "It works exactly like it did the day I took it out of the box.",
+    "aspects": [
+      {
+        "term": "works",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It is fast booting up , shutting down, and connection with the internet.",
+    "aspects": [
+      {
+        "term": "booting up",
+        "polarity": "positive"
+      },
+      {
+        "term": "shutting down",
+        "polarity": "positive"
+      },
+      {
+        "term": "connection with the internet",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The battery life is great.",
+    "aspects": [
+      {
+        "term": "battery life",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "This is not a serious gaming laptop or a serious media machine;",
+    "aspects": [
+      {
+        "term": "gaming",
+        "polarity": "neutral"
+      },
+      {
+        "term": "media",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Â They replaced my hard drive as well as my mother board.",
+    "aspects": [
+      {
+        "term": "hard drive",
+        "polarity": "neutral"
+      },
+      {
+        "term": "mother board",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "There is nothing to complain about the system.",
+    "aspects": [
+      {
+        "term": "system",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "and it comes with the new OSX that comes with new features that makes the use more easy.",
+    "aspects": [
+      {
+        "term": "OSX",
+        "polarity": "positive"
+      },
+      {
+        "term": "features",
+        "polarity": "positive"
+      },
+      {
+        "term": "use",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Now the screen is going darker, darker, darker.",
+    "aspects": [
+      {
+        "term": "screen",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "EITHER THE COMPUTER IS TOO SLOW TO DETECT THE KEYS TYPED (THIS IS UNLIKELY AS I AM A SLOW TYPIST) OR THE KEYBOARD SIMPLY DOES NOT DETECT THE KEYS BEING TYPED.",
+    "aspects": [
+      {
+        "term": "KEYS",
+        "polarity": "negative"
+      },
+      {
+        "term": "KEYBOARD",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Features such as the Dashboard (allows you to view frequently used tools like a calculator, weather forecast, movie times, calendar, computer post its etc.",
+    "aspects": [
+      {
+        "term": "Features",
+        "polarity": "positive"
+      },
+      {
+        "term": "Dashboard",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "when i called to have another one shipped or to get my money back they said the return policy is 23 twenty three days from the date of purchase.",
+    "aspects": [
+      {
+        "term": "return policy",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Â I sent it back and found this time that the battery was faulty, so I got a new one and some other fixes they found.",
+    "aspects": [
+      {
+        "term": "battery",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Great pick for portability and affordability.",
+    "aspects": [
+      {
+        "term": "portability",
+        "polarity": "positive"
+      },
+      {
+        "term": "affordability",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It's fast, it's easy easy easy to set up, easy to hook to my wireless network.",
+    "aspects": [
+      {
+        "term": "set up",
+        "polarity": "positive"
+      },
+      {
+        "term": "hook to my wireless network",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I previously purchased a 13\" macbook (had pro specs and was aluminum style) which had a nvidia 9800 (If I am not mistaken) and it had major heating issues.",
+    "aspects": [
+      {
+        "term": "nvidia 9800",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The people there just changed for me on the spot and I got a new arm piece and they didn't even request for a receipt.",
+    "aspects": [
+      {
+        "term": "arm piece",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "I take it everywhere with me because it's so easy to carry.",
+    "aspects": [
+      {
+        "term": "carry",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The only thing is that the battery won't last more than 1/2 an hour.",
+    "aspects": [
+      {
+        "term": "battery",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The first fell apart right after the 1-year-warranty.",
+    "aspects": [
+      {
+        "term": "warranty",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good.",
+    "aspects": [
+      {
+        "term": "word",
+        "polarity": "negative"
+      },
+      {
+        "term": "product key",
+        "polarity": "negative"
+      },
+      {
+        "term": "word processer",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The keyboard has a wonderful nature feel.",
+    "aspects": [
+      {
+        "term": "keyboard",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "They went through asking me open up various components, taking battery out, hard disk apart, and after 2 hours on phone could not fix it.",
+    "aspects": [
+      {
+        "term": "fix",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The battery doesn't last long but I'm sure an upgrade battery would solve that problem.",
+    "aspects": [
+      {
+        "term": "battery",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I was looking too closely at the other performance specs and while comparing, I took it for granted that these features were standard.",
+    "aspects": [
+      {
+        "term": "performance specs",
+        "polarity": "neutral"
+      },
+      {
+        "term": "features",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I have no idea how this could have even gotten past quality control during production.",
+    "aspects": [
+      {
+        "term": "quality control",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I bought this last week, and the very next day had to return it because it over heated and the touch-mouse stopped responding.",
+    "aspects": [
+      {
+        "term": "touch-mouse",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Oh yea, has no numeric pad on the side.",
+    "aspects": [
+      {
+        "term": "numeric pad",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The cover for the DVD drive soon came off, too--a mark of poor construction quality.",
+    "aspects": [
+      {
+        "term": "cover for the DVD drive",
+        "polarity": "negative"
+      },
+      {
+        "term": "construction quality",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "But the arm velcro is torn after one use.",
+    "aspects": [
+      {
+        "term": "arm velcro",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The software is amazing.",
+    "aspects": [
+      {
+        "term": "software",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "We carry the netbook around here and there, hence it's kinda of irritating when the LCD just \"slide\" downwards.",
+    "aspects": [
+      {
+        "term": "LCD",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.",
+    "aspects": [
+      {
+        "term": "RAM",
+        "polarity": "positive"
+      },
+      {
+        "term": "run Windows 7",
+        "polarity": "positive"
+      },
+      {
+        "term": "programs",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The battery life is amazing, the versitility is outstanding.",
+    "aspects": [
+      {
+        "term": "battery life",
+        "polarity": "positive"
+      },
+      {
+        "term": "versitility",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "It is known as Safari, and if you are doing any website work, you should know that many hosting companies do not support it.",
+    "aspects": [
+      {
+        "term": "Safari",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Vista is a nightmare.",
+    "aspects": [
+      {
+        "term": "Vista",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The program came with the computer and works beautifully.",
+    "aspects": [
+      {
+        "term": "program",
+        "polarity": "positive"
+      },
+      {
+        "term": "works",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "the hinge design forced you to place various connections all around the computer, left right and front.",
+    "aspects": [
+      {
+        "term": "hinge design",
+        "polarity": "negative"
+      },
+      {
+        "term": "connections",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I was loving this Netbook because it had an amazing screen and display and was small and light, but after 1 week it stopped openning web pages for me (even after installing new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",
+    "aspects": [
+      {
+        "term": "screen",
+        "polarity": "positive"
+      },
+      {
+        "term": "display",
+        "polarity": "positive"
+      },
+      {
+        "term": "small",
+        "polarity": "positive"
+      },
+      {
+        "term": "light",
+        "polarity": "positive"
+      },
+      {
+        "term": "openning web pages",
+        "polarity": "negative"
+      },
+      {
+        "term": "blue screen",
+        "polarity": "negative"
+      },
+      {
+        "term": "crashing",
+        "polarity": "negative"
+      },
+      {
+        "term": "booted",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The So called laptop Runs to Slow and I hate it!",
+    "aspects": [
+      {
+        "term": "Runs",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Charger seems large for this class of computer.",
+    "aspects": [
+      {
+        "term": "Charger",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I dislike the quality and the placement of the speakers.",
+    "aspects": [
+      {
+        "term": "quality",
+        "polarity": "negative"
+      },
+      {
+        "term": "placement",
+        "polarity": "negative"
+      },
+      {
+        "term": "speakers",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The screen graphics and clarity, and sharpness are great.",
+    "aspects": [
+      {
+        "term": "screen graphics",
+        "polarity": "positive"
+      },
+      {
+        "term": "clarity",
+        "polarity": "positive"
+      },
+      {
+        "term": "sharpness",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "So I called customer support (which is good too) and they went through it and it is just a safety feature and it does not affect performance at all, I just chose to hide the message.",
+    "aspects": [
+      {
+        "term": "customer support",
+        "polarity": "positive"
+      },
+      {
+        "term": "safety feature",
+        "polarity": "neutral"
+      },
+      {
+        "term": "performance",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "The unibody design is edgy and durable.",
+    "aspects": [
+      {
+        "term": "unibody design",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "STOPPED BOOTING UP less than a week after my one-year warranty was up.",
+    "aspects": [
+      {
+        "term": "BOOTING UP",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "But, for the cost this is a winner.",
+    "aspects": [
+      {
+        "term": "cost",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Later it held zero charge and its replacement worked for less than three months.",
+    "aspects": [
+      {
+        "term": "charge",
+        "polarity": "negative"
+      },
+      {
+        "term": "replacement",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Â Also, the battery does not last very long at all.",
+    "aspects": [
+      {
+        "term": "battery",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I bought it from HSN because it was \"bundled\" with extra software, but as it turns out, that software just crashes it more often.....",
+    "aspects": [
+      {
+        "term": "software",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "I looked around and based off my price/features comparison from a brand I trusted I landed here.",
+    "aspects": [
+      {
+        "term": "price",
+        "polarity": "neutral"
+      },
+      {
+        "term": "features",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "Â I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed.",
+    "aspects": [
+      {
+        "term": "services",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very useful for designers.",
+    "aspects": [
+      {
+        "term": "performance",
+        "polarity": "positive"
+      },
+      {
+        "term": "use",
+        "polarity": "positive"
+      },
+      {
+        "term": "speed",
+        "polarity": "positive"
+      },
+      {
+        "term": "game",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "Unless you need the Bluetooth 3.",
+    "aspects": [
+      {
+        "term": "Bluetooth 3",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I was sorly disapointed to discover that HP (what I thought was a reputable company) wouldn't honor the warrenty when the fan blade fell apart.",
+    "aspects": [
+      {
+        "term": "honor the warrenty",
+        "polarity": "negative"
+      },
+      {
+        "term": "fan blade",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "More times that not the screen pops up saying I have a bad internet connection, or the page can't be displayed.",
+    "aspects": [
+      {
+        "term": "internet connection",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Do yourself a favor and invest in a few external harddrives if you are planning on purchasing this laptop.",
+    "aspects": [
+      {
+        "term": "external harddrives",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "I don't understand why only Windows 7 Starter is included.",
+    "aspects": [
+      {
+        "term": "Windows 7 Starter",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",
+    "aspects": [
+      {
+        "term": "simplicity",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "My macbook is so much better looking and so thin!",
+    "aspects": [
+      {
+        "term": "looking",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "The ease of use is wonderful.",
+    "aspects": [
+      {
+        "term": "ease of use",
+        "polarity": "positive"
+      }
+    ]
+  },
+  {
+    "sentence": "This system came loaded with Windows 7 Starter.",
+    "aspects": [
+      {
+        "term": "Windows 7 Starter",
+        "polarity": "neutral"
+      }
+    ]
+  },
+  {
+    "sentence": "-When battery life went to 4 hours or less, took it to the MacHouse Amsterdam for repair (26th of August).",
+    "aspects": [
+      {
+        "term": "battery life",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "The battery gets so HOT it is scary.",
+    "aspects": [
+      {
+        "term": "battery",
+        "polarity": "negative"
+      }
+    ]
+  },
+  {
+    "sentence": "Best thing is I can use existing 32 bit old programs.",
+    "aspects": [
+      {
+        "term": "use existing 32 bit old programs",
+        "polarity": "positive"
+      }
+    ]
+  }
+]

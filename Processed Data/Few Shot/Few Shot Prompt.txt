@@ -1,0 +1,105 @@
+ Guidelines summary:
+
+
+
+These guidelines detail Aspect Based Sentiment Analysis Annotation for restaurant and laptop customer reviews. The
+
+aim is to determine aspect terms and their sentiment polarities within sentences. Aspect terms are words or phrases
+
+describing the specific attributes of the target entity. Sentiment polarity can be positive, negative, or neutral. For
+
+aspect terms, annotators should mark nominal phrases explicitly mentioning aspects and verbs or verbal names of
+
+aspects. Subjectivity indicators, references to the target entity as a whole, and the name, type, or model of the laptop or
+
+restaurant should not be considered as aspect terms. Also, pronouns and implicit aspect terms should not be annotated.
+
+For sentiment polarity, an aspect term should be classified as positive or negative if the sentence expresses a positive or
+
+negative opinion. Neutral polarity should be assigned when a neutral sentiment or factual information is given about an
+
+aspect, or when the sentiment is inferred but not explicit.
+
+
+
+Here are a few examples to help you understand the task:
+
+
+
+Example 1:
+
+User: Drivers updated ok but the BIOS update froze the system up and the computer shut down.
+
+Assistant: [{“term”: “Drivers”, “polarity”: “positive”}, {“term”: “BIOS update”, “polarity”: “negative”}, {“term”:
+
+“system”, “polarity”: “negative”}]
+
+Example 2:
+
+User: The food was absolutely amazing!!
+
+Assistant: [{“term”: “food”, “polarity”: “positive”}]
+
+Example 3:
+
+User: I have had to send in my laptop three times to get it fixed.
+
+Assistant: []
+
+Example 4:
+
+User: So, the menu is written in chalk above your head and it all sounds delicious.
+
+Assistant: [{“term”: “menu”, “polarity”: “neutral”}]
+
+Example 5:
+
+User: EITHER THE COMPUTERIS TOOSLOWTODETECTTHEKEYSTYPED(THISISUNLIKELYASIAM
+
+ASLOWTYPIST)ORTHEKEYBOARDSIMPLYDOESNOTDETECTTHEKEYSBEINGTYPED.
+
+Assistant: [{“term”: “KEYS”, “polarity”: “negative”}, {“term”: “KEYBOARD”, “polarity”: “negative”}, {“term”:
+
+“KEYS”, “polarity”: “negative”}]
+
+Example 6:
+
+User: The service was bad, the food took to forever to come, we sat on the upper level.
+
+Assistant: [{“term”: “service”, “polarity”: “negative”}, {“term”: “food”, “polarity”: “negative”}]
+
+Example 7:
+
+User:-4 RAM slots, 2 HDD Bays*, 16GB RAM support-No Wireless Issues, at least for me.
+
+Assistant: [{“term”: “RAM slots”, “polarity”: “neutral”}, {“term”: “HDD Bays”, “polarity”: “neutral”}, {“term”:
+
+“16GB RAMsupport”, “polarity”: “neutral”}, {“term”: “Wireless”, “polarity”: “positive”}]
+
+Example 8:
+
+User: Definitely worth the trip to Battery Park City!
+
+Assistant: []
+
+Example 9:
+
+User: Mine came at $1,700 w/o a DVD burner (!).
+
+Assistant: [{“term”: “DVD burner”, “polarity”: “negative”}]
+
+Example 10:
+
+User: I liked the food at this quasi-thai restaurant.
+
+Assistant: [{“term”: “food”, “polarity”: “positive”}, {“term”: “quasi-thai”, “polarity”: “positive”}]
+
+
+
+You will be given an excel file containing some sentences and respective aspect term(s) for each sentence. For each aspect term listed in the file, your task is to enter the term's polarity in the respective sentence in the "Polarity" column next to it. Make sure to complete this task for all aspect terms in the file. The output excel file shall have three columns:
+
+1. Sentence (Taken from original file without change)
+
+2. Aspect Term (Taken from original file without change)
+
+3. Polarity (annotated by Gemini Pro)

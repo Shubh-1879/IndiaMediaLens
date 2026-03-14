@@ -1,0 +1,201 @@
+Sentence,Aspect Term,Polarity
+Ease of use is just one of the benefits I love about my Mac.,use,Positive
+Ease of use is just one of the benefits I love about my Mac.,use,Positive
+"I wouldn't play a first-person shooter with this, mind, but if you wanted to run MS Office, email, chat, download a video, listen to music from a certain fruit-named music store, and were looking for a highly portable yet powerful netbook to do that all in, I'd highly recommend checking this out.",MS Office,Positive
+"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",shipping,Positive
+"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",price,Positive
+"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",budget,Positive
+"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",shipping,Positive
+"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",price,Positive
+"The 13"" Macbook Pro just fits in my budget and with free shipping and no tax to CA this is the best price we can get for a great product.",budget,Positive
+The sheer power and flexibility makes the MacBook Pro a must have for any techie!,power,Positive
+The sheer power and flexibility makes the MacBook Pro a must have for any techie!,flexibility,Positive
+The notebook is lacking a HDMI port and a S-video port that would enable one to hook it to a TV.,HDMI port,Negative
+The notebook is lacking a HDMI port and a S-video port that would enable one to hook it to a TV.,S-video port,Negative
+The speakers on it are useless too.,speakers,Negative
+Battery is lasting about 6 hours as I am surfing the web on Sundays while checking football scores and watching funny Youtube videos.,Battery,Positive
+Battery is lasting about 6 hours as I am surfing the web on Sundays while checking football scores and watching funny Youtube videos.,surfing the web,Neutral
+Iphoto is great for adding pictures right to facebook and other social networking sites.,Iphoto,Positive
+"In early May I got it back and this time I only had it back for 1 day before it had a NEW issue so it was sent back in for the 6th time they ""expedited"" the repairs so I was only supposed to have to be without it for 3 days and it was supposed to be fixed, by a ""Senior Tech"".",Senior Tech,Negative
+"Some features arent friendly ( volume wheel, sound quality, etc.",volume wheel,Negative
+"Some features arent friendly ( volume wheel, sound quality, etc.",sound quality,Negative
+"Some features arent friendly ( volume wheel, sound quality, etc.",features,Negative
+"A cheaper price should not equal a ""cheap"" product.",price,Negative
+"I think the manual is somewhere on the hard drive, but I rather have a hard copy.",manual,Negative
+"I think the manual is somewhere on the hard drive, but I rather have a hard copy.",hard drive,Neutral
+Thank you Best Buy for putting my computer together and installing my first software - you guys were GREAT too!,software,Positive
+Adjust the sensitivity since it's not that responsive to begin with.,sensitivity,Negative
+"After a couple of years, my battery life began to diminish but was replaced for free due to a company-wide recall of my particular battery.",battery life,Negative
+"After a couple of years, my battery life began to diminish but was replaced for free due to a company-wide recall of my particular battery.",battery,Negative
+"The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.",battery life,Negative
+"The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.",case,Negative
+"The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.",core applications,Negative
+"The system constantly overheats, the battery life is too short, the case is coming apart, and my core applications that I use every day in my work as a graphic artist run poorly.",system,Negative
+Â  Later it held zero charge and its replacement worked for less than three months.,charge,Negative
+Â  The company sent me a whole new cord overnight and apologized.,cord,Positive
+It's even easy to hook up to other wireless networks.,hook up to other wireless networks,Positive
+"Â  Also, I have had alot of trouble with the shift key to go to other lines.",shift key,Negative
+"The rep did not even answer my question, I had to ask him, if he understood what I ask or if he spoke english because he didn't even try to acknowledge my question.",rep,Negative
+It gives me the power and speed that I need to run all the programs I use to edit.,power,Positive
+It gives me the power and speed that I need to run all the programs I use to edit.,speed,Positive
+It gives me the power and speed that I need to run all the programs I use to edit.,programs,Neutral
+iLife is easily compatible with Microsoft Office so you can send and receive files from a PC.,iLife,Positive
+iLife is easily compatible with Microsoft Office so you can send and receive files from a PC.,Microsoft Office,Positive
+"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",portability,Positive
+"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",longevity,Positive
+"As a computer science student in college, I find that the portability, longevity, and ease of use of this computer make me (shockingly) want to do homework more;",use,Positive
+Â  Again I sent it back and they replaced the motherboard and some fan inside.,motherboard,Negative
+Â  Again I sent it back and they replaced the motherboard and some fan inside.,fan,Negative
+"Fully charged, the MacBook Pro can last about five hours unplugged.",charged,Positive
+"Even though it is much more expensive than many PC laptops, it is worth the price.",price,Positive
+"I know there are way better laptops out there for the same price, and why spend money on shit when you can go out and get yourself a perfectly decent laptop that doesnt suck total monkey balls.",price,Negative
+"For me, keys were starting to get stuck and wouldn't type very well.",keys,Negative
+can't reinstall with standard os cd because of proprietary hardware drivers.,standard os cd,Negative
+can't reinstall with standard os cd because of proprietary hardware drivers.,proprietary hardware drivers,Negative
+"There is a small red circle next to it with a x in the middle, and when I click on it it says: "" Consider replacing your battery"" and it does not hold full charge.",battery,Negative
+"There is a small red circle next to it with a x in the middle, and when I click on it it says: "" Consider replacing your battery"" and it does not hold full charge.",charge,Negative
+The computer was two weeks late in delivery because HP forgot to complete the required import paperwork.,delivery,Negative
+The first programm I switched on was a game for my children.,programm,Neutral
+I have been very pleased with the performance of this laptop.,performance,Positive
+"I bought it for my mom and she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc.) is excellent;",battery life,Positive
+"I bought it for my mom and she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc.) is excellent;",response,Positive
+"I bought it for my mom and she reports that the battery life lasts all day for her, it's very lightweight, and the response for the computing she's doing (Internet focused activity: mail, research, etc.) is excellent;",Internet focused activity,Neutral
+Its very nice and once you learn the features you will be so happy to have such a sophisticated computer.,features,Positive
+It is sleek and lightweight and charges quickly when needed.,charges,Positive
+"also you may need to charge it once a day, if for medium use every thing fast and easy with mac  the size and look is the most feature that attracted me to it.",size,Positive
+"also you may need to charge it once a day, if for medium use every thing fast and easy with mac  the size and look is the most feature that attracted me to it.",look,Positive
+"also you may need to charge it once a day, if for medium use every thing fast and easy with mac  the size and look is the most feature that attracted me to it.",feature,Positive
+"also you may need to charge it once a day, if for medium use every thing fast and easy with mac  the size and look is the most feature that attracted me to it.",charge,Neutral
+( The iBook backup also uses a firewire connection).,iBook backup,Neutral
+( The iBook backup also uses a firewire connection).,firewire connection,Neutral
+"I did think it had a camera because that was one of my requirements, but forgot to check in the specifications on this one before I purchased.",camera,Negative
+"I did think it had a camera because that was one of my requirements, but forgot to check in the specifications on this one before I purchased.",specifications,Neutral
+Also the display is exceptional!,display,Positive
+The computer was shipped to their repair depotÂ  on june 24 and returned on July 2 seems like a short turn around time except the computer was not repaired when it was returned.,repair depot,Negative
+Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines.,keyboard shortcuts,Positive
+Learning all of the keyboard shortcuts only took a few minutes to get used to as some of the shortcuts are the same on Windows machines.,shortcuts,Positive
+little short on RAM but you get what you pay for.,RAM,Negative
+"It didn't come with any software installed outside of windows media, but for the price, I was very pleased with the condition and the overall product.",software,Neutral
+"It didn't come with any software installed outside of windows media, but for the price, I was very pleased with the condition and the overall product.",windows media,Neutral
+"It didn't come with any software installed outside of windows media, but for the price, I was very pleased with the condition and the overall product.",price,Positive
+"THEN, one month after the warranty expired, the replacement charger went.",warranty,Neutral
+"THEN, one month after the warranty expired, the replacement charger went.",replacement charger,Negative
+"I love a ""pc"" but I was ready for a change and tired of the windows system.",windows system,Negative
+"Your cursor will end up all over the freaking place,,,it's not uncommon for me to accidentally delete words, sentences, paragraphs because of this mousepad.",cursor,Negative
+"Your cursor will end up all over the freaking place,,,it's not uncommon for me to accidentally delete words, sentences, paragraphs because of this mousepad.",mousepad,Negative
+"Other installed features, such as certain printer software, are also most attractive.",features,Positive
+"Other installed features, such as certain printer software, are also most attractive.",printer software,Positive
+"I work in film editing and post production, so I need a laptop that not only has power, but memory and speed as well.",power,Positive
+"I work in film editing and post production, so I need a laptop that not only has power, but memory and speed as well.",memory,Positive
+"I work in film editing and post production, so I need a laptop that not only has power, but memory and speed as well.",speed,Positive
+"It had a seventeen inch screen which I wanted, but I didn't realize at the time it would be such a monster!",seventeen inch screen,Negative
+"Even doing so, the hinge may just be slightly tightened only.",hinge,Negative
+"company provides UPS shipping, fast, great!",shipping,Positive
+I would tell the technician I knewÂ exactlyÂ what was wrong with it but they did not listen and I had to go through a bunch of junk to get them to tell me I needed to send the computer in.,technician,Negative
+"Â  Then I've fixed the DC jack (inside the unit), rewired the DC jack to the OUTside of the laptop, replaced the power brick.",DC jack,Negative
+"Â  Then I've fixed the DC jack (inside the unit), rewired the DC jack to the OUTside of the laptop, replaced the power brick.",DC jack,Negative
+"Â  Then I've fixed the DC jack (inside the unit), rewired the DC jack to the OUTside of the laptop, replaced the power brick.",power brick,Negative
+"It is easy to use, has great screen quality, and every so light weight.",screen quality,Positive
+"It is easy to use, has great screen quality, and every so light weight.",use,Positive
+"Great product, very easy to use and great graphics.",graphics,Positive
+"Great product, very easy to use and great graphics.",use,Positive
+The iLife software that comes with the computer is so simple to use and produces a great finished product.,iLife software,Positive
+The iLife software that comes with the computer is so simple to use and produces a great finished product.,use,Positive
+The built-in webcam is great for Skype and similar video-chat services.,built-in webcam,Positive
+The shop will definitely push the problem to the service center.,service center,Negative
+"PC users work in Word, while Mac users work in Pages.",Word,Neutral
+"PC users work in Word, while Mac users work in Pages.",Pages,Neutral
+"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.",applications,Positive
+"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.",internet,Neutral
+"While I mostly use it for email, internet and gaming, I'm confident all other applications live up to the high standard I've come to appreciate from Mac laptops.",gaming,Neutral
+"This laptop looks great on the surface: 17"" inch screen, good  price-point, nice appearance, boots up quickly, runs fast etc.","17"" inch screen",Positive
+"This laptop looks great on the surface: 17"" inch screen, good  price-point, nice appearance, boots up quickly, runs fast etc.",price-point,Positive
+"This laptop looks great on the surface: 17"" inch screen, good  price-point, nice appearance, boots up quickly, runs fast etc.",appearance,Positive
+"This laptop looks great on the surface: 17"" inch screen, good  price-point, nice appearance, boots up quickly, runs fast etc.",boots up,Positive
+"This laptop looks great on the surface: 17"" inch screen, good  price-point, nice appearance, boots up quickly, runs fast etc.",runs,Positive
+"The apple systems are over priced luxurys that arn't worth what they are being charged for, this model's specifications are far from being impressive and they only thing you get out of this is the apple name.",specifications,Negative
+pros:  the macbook pro notebook has a large battery life and you wont have to worry to charge your laptop every five hours or so.,battery life,Positive
+Disappointing for such a lovely screen and at a reasonable price,screen,Positive
+Disappointing for such a lovely screen and at a reasonable price,price,Positive
+The only bad thing about it is they give you the worst batteries possible.,batteries,Negative
+Good price.,price,Positive
+Â THE MOTHERBOARD IS DEAD !,MOTHERBOARD,Negative
+the speed is fine.,speed,Positive
+Hmmm - that high failure rate sure isn't reflected in the retail price.,retail price,Negative
+"It was not clear that the Microsoft Student Edition that was loaded on the computer, was a six month trial.",Microsoft Student Edition,Negative
+Good for every day computing and web browsing.,web browsing,Positive
+Good for every day computing and web browsing.,every day computing,Positive
+"While lacking some of the functions of the other versions, this was very acceptable for the uses planned for this computer.",functions,Negative
+"Â  Also, I have had alot of trouble with the keys sticking and will not type correctly.",keys,Negative
+Excellent LED monitor and well equipped.,LED monitor,Positive
+Â  This process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times.,mother board,Negative
+Â  This process continued to repeat itself until the mother board had been replaced 4 times and the hard drive replaced 3 times.,hard drive,Negative
+"Without a doubt, the *design* of this laptop is fantastic.",design,Positive
+I couldn't believe how long the battery lasted on a single charge.,battery,Positive
+I couldn't believe how long the battery lasted on a single charge.,charge,Positive
+I could save ten essay papers and have hardly any memory left.,memory,Negative
+"Other than that, I would recommend this to someone in need of a cheap laptop with semi-decent gaming capabilities.",gaming,Positive
+"This is the first time that I tried and owning a netbook although I have used 3 different laptops in the past 10 years, I find not much difference except of course for the screen size.",screen size,Neutral
+But the biggest pain is that tech support is not available 24/7.,tech support,Negative
+The backlit keys are wonderful when you are working in the dark.,backlit keys,Positive
+"I chose the iBookG4, a laptop that is an attractive computer with a large screen big enough to please anyone.",screen,Positive
+"The most recent being that my Safari internet browser is freaking out on me, but I have just been using firefox instead.",Safari internet browser,Negative
+"The most recent being that my Safari internet browser is freaking out on me, but I have just been using firefox instead.",firefox,Neutral
+"Everything about the Mac is not only visually appealing, but very easy to use.",use,Positive
+I know what 7 hrs of battery looks like.,battery,Negative
+I did not have to call the support line at all.,support line,Neutral
+The laptop is outstanding in all aspects except that it has the Windows 7 starter and not the full Windows 7.,Windows 7 starter,Negative
+The laptop is outstanding in all aspects except that it has the Windows 7 starter and not the full Windows 7.,Windows 7,Positive
+THE FIRST PROBLEM IS THAT THE KEYBOARD FUNCTION IS SIMPLY UNSATISFACTORY.,KEYBOARD FUNCTION,Negative
+"The DVD drive randomly pops open when it is in my backpack as well, which is annoying.",DVD drive,Negative
+"Garageband is more for the musicians, and the laptop is equipped with a good working microphone, good enough for beginners and musicians at the intermediate level.",Garageband,Positive
+"Garageband is more for the musicians, and the laptop is equipped with a good working microphone, good enough for beginners and musicians at the intermediate level.",microphone,Positive
+I dual boot with Linux and that other security-prone OS and it performs flawlessly.,Linux,Positive
+I dual boot with Linux and that other security-prone OS and it performs flawlessly.,security-prone OS,Negative
+I dual boot with Linux and that other security-prone OS and it performs flawlessly.,performs,Positive
+The difference is the Toshiba had a lot more memory and hard drive space.,memory,Negative
+The difference is the Toshiba had a lot more memory and hard drive space.,hard drive space,Negative
+There was a little difficulty doing the migration as the firewire cable system can't be used with the iBook.,firewire cable system,Negative
+There was a little difficulty doing the migration as the firewire cable system can't be used with the iBook.,iBook,Neutral
+Seems like maybe a bad shipment from Toshiba.,shipment,Negative
+OS X is solid with lots of innovations such as quicklook which save heaps of time.,OS X,Positive
+OS X is solid with lots of innovations such as quicklook which save heaps of time.,quicklook,Positive
+But other than that I am blown away by all the features this laptop offers.,features,Positive
+The keyboard is slick and quiet and not bulky like some other laptops I have had in the past.,keyboard,Positive
+"Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.",design,Positive
+"Overall, this laptop is definitely a keeper with its simple yet stylish design and its array of fantastic colors to choose from.",colors,Positive
+First the screen goes completely out.,screen,Negative
+I'm learning the finger options for the mousepad that allow for quicker browsing of web pages.,mousepad,Positive
+I'm learning the finger options for the mousepad that allow for quicker browsing of web pages.,browsing,Positive
+"The PhotoBooth is a great program, it takes very good pictures with the built-in camera.",PhotoBooth,Positive
+"The PhotoBooth is a great program, it takes very good pictures with the built-in camera.",program,Positive
+"The PhotoBooth is a great program, it takes very good pictures with the built-in camera.",built-in camera,Positive
+Many kinds of software that is necessary to the working person is not available and cannot be downloaded.,software,Negative
+I had to pay for the shipping!,shipping,Negative
+"It bluescreened on me without any warning, running simply basic Chrome.",Chrome,Negative
+I took 3-4 years researching brands and prices of laptops.,prices,Neutral
+We researched and found the best price at MacConnection.,price,Positive
+But guess what?  (you have to buy an external dvd drive it doesn't have a built in type) The notebook can't be used because it doesn't read anything for an external drive.,external dvd drive,Negative
+But guess what?  (you have to buy an external dvd drive it doesn't have a built in type) The notebook can't be used because it doesn't read anything for an external drive.,external drive,Negative
+GET THIS COMPUTER FOR PORTABILITY AND FAST PROCESSING!!!,PORTABILITY,Positive
+GET THIS COMPUTER FOR PORTABILITY AND FAST PROCESSING!!!,PROCESSING,Positive
+I use a cooling pad but it doesn't help.,cooling pad,Neutral
+Supplied software: The software that comes with this machine is greatly welcomed compared to what Windows comes with.,Supplied software,Positive
+Supplied software: The software that comes with this machine is greatly welcomed compared to what Windows comes with.,software,Positive
+Supplied software: The software that comes with this machine is greatly welcomed compared to what Windows comes with.,Windows,Negative
+I'm tired of the inept service.,service,Negative
+"Garageband is easy to work with, like all the other apple applications I've had experience with.",Garageband,Positive
+"Garageband is easy to work with, like all the other apple applications I've had experience with.",apple applications,Positive
+"No, tey don't even support their own bios and it ""could be a problem with the bios"" How can a company that makes a fairly decent product get away with such insanity??!!",bios,Negative
+"No, tey don't even support their own bios and it ""could be a problem with the bios"" How can a company that makes a fairly decent product get away with such insanity??!!",bios,Negative
+"Because we did not purchase the extended warranty in time, we are on the hook for the repair.",extended warranty,Neutral
+"It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, ""74%, plugged in, not charging""), requiring me to unplug it and plug it back in several times to get it to charge.",charging,Negative
+"It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, ""74%, plugged in, not charging""), requiring me to unplug it and plug it back in several times to get it to charge.",charge,Negative
+"It started out by randomly ceasing to charge when it was plugged in (mousing over the battery icon would read, for example, ""74%, plugged in, not charging""), requiring me to unplug it and plug it back in several times to get it to charge.",charge,Negative
+This laptop looked brand new and was shipped very quickly.,shipped,Positive
+"Info: Windows failed to load because the kernal is missing, or corrupt.",Windows,Negative
+"Info: Windows failed to load because the kernal is missing, or corrupt.",kernal,Negative
+"The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.",display,Positive
+"The display on this computer is the best I've seen in a very long time, the battery life is very long and very convienent.",battery life,Positive
+"But the quality, in general was less than the worth of the cheap laptop.",quality,Negative
+In the first moth of owning this computer its hardrive failed which had to be replaced.,hardrive,Negative

@@ -1,0 +1,201 @@
+Sentence,Aspect Term,Polarity
+Fan noise: The fan made a constant hissing noise in the background.,Fan,Negative
+Fan noise: The fan made a constant hissing noise in the background.,fan,Negative
+"The screen is bright and clear, the operating system is solid and friendly to a novice.",screen,Positive
+"The screen is bright and clear, the operating system is solid and friendly to a novice.",operating system,Positive
+It has a .1 ghz faster processor and a stock 500gb hard drive.,processor,Positive
+It has a .1 ghz faster processor and a stock 500gb hard drive.,500gb hard drive,Neutral
+The feature are good enough for what I need.,feature,Positive
+"Finally, the biggest problem has been tech support.",tech support,Negative
+""" This isn't a big deal, I haven't noticed the issue with DVDs or other media, only through USB output.",USB output,Negative
+With Windows laptops a wireless mouse is an absolute must.,wireless mouse,Neutral
+"(I had been a Windows/Linux user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.",size,Positive
+"(I had been a Windows/Linux user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.",screen,Positive
+"(I had been a Windows/Linux user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.",Windows,Neutral
+"(I had been a Windows/Linux user before this) I love the size because the screen is big enough for what I use it for (Internet, artwork), and yet it is small enough to be reasonably portable.",Linux,Neutral
+But if you're willing to pay another 200 dollar for a windows disc.,windows disc,Negative
+Very good quality and well made.,quality,Positive
+"I bought a Logitech desktop set in anticipation for using with the MBP, but I use the touchpad 90% of the time.",touchpad,Positive
+my niece and nephew have played a few web games and it runs anything that doesn't require a dedicated video card.,video card,Neutral
+It had the full sized touch pad with 2 buttons instead of just one.,touch pad,Positive
+"Typically, when I purchase a new laptop I always end up using an external mouse for convenience.",external mouse,Neutral
+It was super easy to set up and Is really easy to get used to.,set up,Positive
+"The only thing that can be updated is the video, other than that you're all set.",video,Neutral
+Its a good laptop for its value.,value,Positive
+Then the hard drive failed;,hard drive,Negative
+"Plain and simple, it(laptop) runs great and loads fast.",runs,Positive
+"Plain and simple, it(laptop) runs great and loads fast.",loads,Positive
+of course my warranty runs out next month.,warranty,Neutral
+The capabilities using that program alone made me want a Mac.,program,Positive
+"(If you ever see the spinning beachball come up when you think it shouldn't, check the ""Activity Monitor"" app to see if the disk throughput has temporarily dropped to zero.",disk throughput,Negative
+"(If you ever see the spinning beachball come up when you think it shouldn't, check the ""Activity Monitor"" app to see if the disk throughput has temporarily dropped to zero.",spinning beachball,Negative
+"I have found also, it is very easy to be able to access wireless internet access;",wireless internet access,Positive
+This is a great value for the money.,value,Positive
+"It was a great laptop, ran great and was really fast.",ran,Positive
+The battery has never worked well.,battery,Negative
+I will never buy another computer from Dell ever again do to how awful it worked and how I was treated by the company.,company,Negative
+The only problem is a lack of screen resolutions!,screen resolutions,Negative
+"Small enough to use on a long flight, Light enough to carry through airports and powerful enough to replace my desktop while on long business trips.",carry,Positive
+Typing on the keyboard becomes uncomfortable after extended use due to the sharp edges that your wrists rest on.,keyboard,Negative
+Typing on the keyboard becomes uncomfortable after extended use due to the sharp edges that your wrists rest on.,edges,Negative
+"It has many great programs, such as ILife, iPhotos and others.",programs,Positive
+"It has many great programs, such as ILife, iPhotos and others.",ILife,Positive
+"It has many great programs, such as ILife, iPhotos and others.",iPhotos,Positive
+"The processor went on me, the fan went and the motherboard went.",processor,Negative
+"The processor went on me, the fan went and the motherboard went.",fan,Negative
+"The processor went on me, the fan went and the motherboard went.",motherboard,Negative
+It is very well built.,built,Positive
+I highly recommend this laptop to anybody that wants great performance from a laptop and would like to relax and not become enraged cursing the gods about to throw your laptop out the door.,performance,Positive
+The screen resolution was exactly what I was looking for.,screen resolution,Positive
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",Snow Leopard,Neutral
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",CPU,Negative
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",Office Mac applications,Neutral
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",Word,Neutral
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",Excel,Neutral
+"Even though it is running Snow Leopard, 2.4 GHz C2D is a bit of an antiquated CPU and thus the occasional spinning wheel would appear when running Office Mac applications such as Word or Excel.",spinning wheel,Negative
+There is no number pad to the right of the keyboard which is a bummer.,pad,Negative
+There is no number pad to the right of the keyboard which is a bummer.,keyboard,Negative
+After 20-30 min the screen of the notebook switched off.,screen,Negative
+"If upgrade is possible to the full Windows 7, then I will truly be a very happy geek.",Windows 7,Positive
+"I was originally concerned that I couldn't view work I had done in college on my Mac because of the PC formatting, but I was even more thrilled to learn of programs like iLife and iWork that allow you to convert your PC documents into readable files on Macs.",programs,Positive
+"I was originally concerned that I couldn't view work I had done in college on my Mac because of the PC formatting, but I was even more thrilled to learn of programs like iLife and iWork that allow you to convert your PC documents into readable files on Macs.",iLife,Positive
+"I was originally concerned that I couldn't view work I had done in college on my Mac because of the PC formatting, but I was even more thrilled to learn of programs like iLife and iWork that allow you to convert your PC documents into readable files on Macs.",iWork,Positive
+"It is a big big, but since it has a 18.4"" screen what would you expect!","18.4"" screen",Positive
+10 hours of battery life is really something else....,battery life,Positive
+Runs fast and the regular layout keyboard is so much better.,regular layout keyboard,Positive
+Runs fast and the regular layout keyboard is so much better.,Runs,Positive
+"All the programs are easy and straight forward on my MacBook Pro, it is clean and organized, which I always strive to be myself.",programs,Positive
+I reinstalled windows through the recovery discs and everything seemed good again.,windows,Neutral
+I reinstalled windows through the recovery discs and everything seemed good again.,recovery discs,Positive
+"Windows 7 Starter is terrific (no you can't change the background) but I don't need to, I use it just for school work.",Windows 7 Starter,Positive
+Support has been lackluster and now I just want a refund.,Support,Negative
+"First of all, they had no record of me having the 3 year warranty I'd paid almost $400 for, and I had to call in, spend hours on their online chat service, and fax in multiple documents.",3 year warranty,Negative
+"First of all, they had no record of me having the 3 year warranty I'd paid almost $400 for, and I had to call in, spend hours on their online chat service, and fax in multiple documents.",online chat service,Negative
+""">  iPhoto is probably the best program I have ever worked with: easy and convenient.",iPhoto,Positive
+I love to write and play with graphics and html programming and my new Toshiba works great on both!,works,Positive
+My laptop now has no battery.,battery,Negative
+"Beta had better quality, but VHS became the industry standard.",quality,Positive
+"Beta had better quality, but VHS became the industry standard.",VHS,Neutral
+It made the computer much easier to use and navigate.,use,Positive
+It made the computer much easier to use and navigate.,navigate,Positive
+":-)If you buy this - don't go into it expecting 7 hrs of battery life, and you'll be perfectly satisfied.",battery life,Negative
+"Needs longer lasting battery, More than 1 to 2 Hrs.",battery,Negative
+in May I started having problems with the USB ports not working.,USB ports,Negative
+10 plus hours of battery...,battery,Positive
+"The design is awesome, quality is unprecedented.",design,Positive
+"The design is awesome, quality is unprecedented.",quality,Positive
+The Mac version of Microsoft Office is cheaper than buying the actual and works just as well.,Mac version of Microsoft Office,Positive
+"The Mac takes about the same amount of starting-up time as the average PC, but keeps itself cleaned up and ready to use.",starting-up time,Neutral
+The Toshiba Net book operates very well.,operates,Positive
+"the touch pad is fine - again, it's a real touch pad.",touch pad,Positive
+"the touch pad is fine - again, it's a real touch pad.",touch pad,Positive
+The pictures are clear as can be.,pictures,Positive
+"It is also very lightweight, making transporting this computer very easy.",transporting,Positive
+It's wonderful for computer gaming.,gaming,Positive
+You have to toss out the wifi card and replace it just to have any sort of network capability.,network capability,Negative
+You have to toss out the wifi card and replace it just to have any sort of network capability.,wifi card,Negative
+"AND the best part is that it even comes with a free printer (when they have a certain promotion/offer going, of course)!",printer,Positive
+it is very easy for anyone to use an apple and specially the mcbook pro notebook.,use,Positive
+"The flaws are, this computer is not for computer gamers because of the OS X.",OS X,Negative
+They really do have the worlds very worst repair service.,repair service,Negative
+They need to stop outsoucing and send some complaint calls to US based customer service agents for those who live in the United states.,customer service agents,Negative
+Â  I was also able to install and use my Photoshop and AfterEffects programs easily.,Photoshop,Positive
+Â  I was also able to install and use my Photoshop and AfterEffects programs easily.,AfterEffects programs,Positive
+It's perfect for everything and runs faster than an average pc!,runs,Positive
+Â Then after paying for it to be examined I was told it was same problem cited on website but I'd have to pay anyways since it was past warrenty.,warrenty,Negative
+I'm already hooked on the sleek look and dependability that this laptop has shown.,look,Positive
+I'm already hooked on the sleek look and dependability that this laptop has shown.,dependability,Positive
+And having to deal with the company has been a even worse nightmare.,company,Negative
+Â  I will definitely be getting a new laptop if it has any more issues after the warranty expires and researching carefully when I do so I don't run accross a situation like this again!,warranty,Neutral
+It has all the features that are necessary for college and if not they are able to be added onto the computer.,features,Positive
+"I've owned this labtop for less then two months, already the mouse button has broke.",mouse button,Negative
+"It did fairly well, other than it's poor performance, overheating and occational blue screen.",performance,Negative
+"The touchpad is very intuitive, so much so that I never want to use buttons to click again!",touchpad,Positive
+"The touchpad is very intuitive, so much so that I never want to use buttons to click again!",buttons,Negative
+tons of bloatware and junk programs.,programs,Negative
+lots of extra space but the keyboard is ridiculously small.,space,Positive
+lots of extra space but the keyboard is ridiculously small.,keyboard,Negative
+It's so bad that I'm thinking I only got half a battery or something.,battery,Negative
+"Good keyboard, long battery life, largest hard drive and windows 7.",keyboard,Positive
+"Good keyboard, long battery life, largest hard drive and windows 7.",battery life,Positive
+"Good keyboard, long battery life, largest hard drive and windows 7.",hard drive,Positive
+"Good keyboard, long battery life, largest hard drive and windows 7.",windows 7,Positive
+The processor is very quick and effective as I load webpages and applications.,processor,Positive
+The processor is very quick and effective as I load webpages and applications.,applications,Neutral
+The processor is very quick and effective as I load webpages and applications.,load,Positive
+The processor is very quick and effective as I load webpages and applications.,webpages,Neutral
+My battery went bad about a year and a half after having it and it cost around eighty to a hundred dollars!,battery,Negative
+"It pretty much does everything we could ever need, and looks great to boot.",boot,Positive
+"As a lifelong Windows user, I was extremely pleased to make the change to Mac.",Windows,Neutral
+"The Macbook is also made better, my computer has never got a virus, and the laptop runs just as fast as the first day I bought it.",runs,Positive
+"I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.",OpenOffice,Neutral
+"I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.",Firefox,Neutral
+"I wiped nearly everything off of it, installed OpenOffice and Firefox, and I am operating an incredibly efficient and useful machine for a great price.",price,Positive
+"Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.",quality,Negative
+"Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.",performance,Negative
+"Overall I feel this netbook was poor quality, had poor performance, although it did have great battery life when it did work.",battery life,Positive
+"I picked it out because it was inexpensive ($400) and I thought it would be a good, easy to use first laptop.",use,Positive
+MY ONLY PROBLEM IS I CAN NOT REG. THE PRODUCT KEY.,PRODUCT KEY,Negative
+Pay attention to the specs if you want these options.,specs,Neutral
+It also does not have bluetooth.,bluetooth,Negative
+Sure it has the one touch keys but that was the best feature of the computer.,feature,Positive
+Sure it has the one touch keys but that was the best feature of the computer.,one touch keys,Positive
+great battery life.,battery life,Positive
+The real stand out on this computer is the feel of the keyboard and it's speed.,keyboard,Positive
+The real stand out on this computer is the feel of the keyboard and it's speed.,speed,Positive
+"At first, the computer seemed a great deal--seemingly high-end specs for a low, low price.",specs,Positive
+"At first, the computer seemed a great deal--seemingly high-end specs for a low, low price.",price,Positive
+Delivery was early too.,Delivery,Positive
+Love the stability of the Mac software and operating system.,stability,Positive
+Love the stability of the Mac software and operating system.,Mac software,Positive
+Love the stability of the Mac software and operating system.,operating system,Positive
+And that probably explains why I've already had my SATA controller go bad within a year of buying it.,SATA controller,Negative
+It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing).,video editing,Positive
+It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing).,performance,Neutral
+It's also very capable of doing moderate video editing (although you may need the performance boost of the larger MacBook Pros for heavy duty mobile video editing).,mobile video editing,Neutral
+My main reason to convert was the imovie program.,imovie program,Positive
+It has a faster processor and more ram.,processor,Positive
+It has a faster processor and more ram.,ram,Positive
+"Laptops are usually used on the go, so why not give you a better battery?",battery,Negative
+I will never complain about the price since I believe you get what you pay for and my MacBook Pro was worth every dollar.,price,Positive
+I wasn't a big fan of the Netbooks but this one was very well designed.,designed,Positive
+And the warranty on this macbook pro can last up to 5 years or 1000 battery recharge cycles.,warranty,Positive
+I still have that stupid bluetooth mouse to!,bluetooth mouse,Negative
+"Would like more trendy, high tech features.",features,Negative
+Keyboard is great but primary and secondary control buttons could be more durable.,Keyboard,Positive
+Keyboard is great but primary and secondary control buttons could be more durable.,control buttons,Negative
+"Screen is a bit glossy, but that's not too bad.",Screen,Negative
+"I got it back again and was told the motherboard had been replaced, so I was now on the SECOND motherboard within 3 months.",motherboard,Negative
+"I got it back again and was told the motherboard had been replaced, so I was now on the SECOND motherboard within 3 months.",motherboard,Negative
+Processor - When compared to my 3 week old Early 2011 edition there I barely experience any difference in performance (2.3 GHz v/s 2.4 GHz).,Processor,Neutral
+Processor - When compared to my 3 week old Early 2011 edition there I barely experience any difference in performance (2.3 GHz v/s 2.4 GHz).,performance,Neutral
+"They say it could be the motherboard again, but Dell",motherboard,Negative
+2nd Best computer in the world  only one way this computer might become the best is that it needs to upgreade patches  to make less easier for people to hack into,patches,Negative
+"Love the speed, especially!",speed,Positive
+It could be a perfect laptop if it would have faster system memory and its radeon 5850 would have DDR5 instead of DDR3.,system memory,Negative
+It could be a perfect laptop if it would have faster system memory and its radeon 5850 would have DDR5 instead of DDR3.,radeon 5850,Negative
+It could be a perfect laptop if it would have faster system memory and its radeon 5850 would have DDR5 instead of DDR3.,DDR5,Positive
+It could be a perfect laptop if it would have faster system memory and its radeon 5850 would have DDR5 instead of DDR3.,DDR3,Negative
+"Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.",programs,Positive
+"Not only are the versions of these programs able to be saved, worked on and opened on both a PC and Mac, the versions of these programs on a Mac are graphically and functionally superior.",programs,Positive
+"The speed gives you the power to work on these projects seamlessly, and multiple at a time if you sowish.",speed,Positive
+Awesome laptop and the perfect size to carry around in college.,size,Positive
+"Â A MONTH LATER, we reinstall the OS (Vista).",OS (Vista),Neutral
+"Some problems can be fixed if you purchase new software, but there is no guarentee.",software,Negative
+My real problem with it? The statement of 7 hour battery life is not just mere exaggeration -- it's a lie.,battery life,Negative
+The battery life is also relatively good.,battery life,Positive
+"Â  I definitely suggest getting an extended warranty, you will probably need it!",extended warranty,Positive
+"I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.",features,Positive
+"I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.",programs,Positive
+"I have found it very easy to use, very imformative, wonder alerts and tutorials making it very easy for someone like me who is not exactly technologically advanced to learn to use the various features and programs.",use,Positive
+"I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.",pop up windows,Negative
+"I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.",web programming software,Positive
+"I don't have stupid pop up windows (even when I have pop ups blocked), I don't have to wait 5 minutes for a webpage to download, and best of all I can run all the web programming software I need to use all at once without slowing me down.",pop ups,Negative
+Memory is upgradable.,Memory,Positive
+"Web access through the 3G network is so slow, it's very frustrating and VERY DISAPPOINTING.",3G network,Negative
+"Web access through the 3G network is so slow, it's very frustrating and VERY DISAPPOINTING.",Web access,Negative
+The large screen also helps when you are working in design based programs like Adobe Creative Suite.,screen,Positive
+The large screen also helps when you are working in design based programs like Adobe Creative Suite.,design based programs,Neutral
+The large screen also helps when you are working in design based programs like Adobe Creative Suite.,Adobe Creative Suite,Neutral
+Moral of the story:-Do not buy anything from companies that do not respect their customers.,companies,Negative
+This is my first Dell I heard their customer service was lacking and that they were working on improving it!,customer service,Negative

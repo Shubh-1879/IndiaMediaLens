@@ -1,0 +1,200 @@
+Sentence,Aspect Term,Polarity
+"The apple care has never failed me, and I expect it to be the same for this computer as well.",apple care,Positive
+The Toshiba laptop I am using is easier to use than most I have tried.,use,Positive
+"So I called Compaq, and after being on the phone for 3 hours, i finally got a replacement which I shouldn't have had a problem getting since it was under warranty.",warranty,Negative
+So we exchanged it for the same on and after 2 hours it didn't work.,work,Negative
+"I love the size, keyboard, the functions.",size,Positive
+"I love the size, keyboard, the functions.",keyboard,Positive
+"I love the size, keyboard, the functions.",functions,Positive
+the mouse is way way way to sensitve.,mouse,Negative
+The OS is still as fast as the day that the laptop was purchased and continues to run flawlessly.,OS,Positive
+The OS is still as fast as the day that the laptop was purchased and continues to run flawlessly.,run,Positive
+"Also, I issued a replacement RMA for a few dead pixels in the upper zone of the screen, which is noticable to me.",screen,Negative
+"After way too many times sending the thing in for repairs (delivery service was slow, and without the laptop I had no access to the internet, and thus no way of tracking it to find out when I might hope to see my computer again), it finally kicked the bucket after just over 2 years.",delivery service,Negative
+"My friend reports the notebook is astonishing in performance, picture quality, and ease of use.",performance,Positive
+"My friend reports the notebook is astonishing in performance, picture quality, and ease of use.",picture quality,Positive
+"My friend reports the notebook is astonishing in performance, picture quality, and ease of use.",use,Positive
+the i3 processor doesn't seem to run hot and the fan rarely turns on.,i3 processor,Positive
+the i3 processor doesn't seem to run hot and the fan rarely turns on.,fan,Positive
+"Â  The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",battery,Negative
+"Â  The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",charge,Negative
+"Â  The battery never held a charge longer than one hour and within two months, stopped holding a charge for more than ten minutes.",charge,Negative
+"Â  Another THREE weeks later I had my laptop back with a new mousepad, keys, and casing.",mousepad,Neutral
+"Â  Another THREE weeks later I had my laptop back with a new mousepad, keys, and casing.",keys,Neutral
+"Â  Another THREE weeks later I had my laptop back with a new mousepad, keys, and casing.",casing,Neutral
+See when it comes to laptops you buy it and get just a normal operating system with trials of must need stuff that should come with it.,operating system,Neutral
+"The only thing I don't understand is that the resolution of the screen isn't high enough for some pages, such as Yahoo!Mail.",resolution of the screen,Negative
+"The only thing I wish this had was the option to turn off the touchpad with a button like my big 16"" laptop does.",touchpad,Negative
+very convenient when you travel and the battery life is excellent...,battery life,Positive
+Â  The machine is slow to boot up and occasionally crashes completely.,boot up,Negative
+This is great if you have several lectures back to back and don't have a chance to charge during one of the lectures.,charge,Positive
+I wish Toshiba would allow their customers to select an option that only boots the OS at setup and removes all the unnecessary stuff.,OS,Negative
+the screen brightness automatically adjusts.,screen brightness,Positive
+I especially like the backlit keyboard.,backlit keyboard,Positive
+"Besides the great look, it is a great machine.",look,Positive
+"My laptop cost approximately $2,300 and DIED after only 2-years, 10-months and 18-days of use.",cost,Negative
+"The sound is a bit quiet if you're on a plane, this can easily be overcome with a decent pair of head phones.",sound,Negative
+(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),SATA controller,Neutral
+(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),motherboard chip,Neutral
+(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),CPU,Neutral
+(The SATA controller is the motherboard chip that lets the CPU talk to the hard drive.),hard drive,Neutral
+The buttons you have to press a little harder than most.,buttons,Negative
+"The battery life was supposed to be 6 hours, but even if I ran off the battery with the high effeciency setting the battery would only last me on average about 2.5 to 3 hours.",battery life,Negative
+"The battery life was supposed to be 6 hours, but even if I ran off the battery with the high effeciency setting the battery would only last me on average about 2.5 to 3 hours.",battery,Negative
+"The battery life was supposed to be 6 hours, but even if I ran off the battery with the high effeciency setting the battery would only last me on average about 2.5 to 3 hours.",battery,Negative
+Right size and weight for portability.,size,Positive
+Right size and weight for portability.,weight,Positive
+Right size and weight for portability.,portability,Positive
+"Â  It was loaded with Windows Vista Home Premium--delivered with only 1GB of RAM, and it was a *dog*.",Windows Vista Home Premium,Negative
+"Â  It was loaded with Windows Vista Home Premium--delivered with only 1GB of RAM, and it was a *dog*.",1GB of RAM,Negative
+The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can crank up the brightness.,display,Neutral
+The reflectiveness of the display is only a minor inconvenience if you work in a controlled-lighting environment like me (I prefer it dark) or if you can crank up the brightness.,brightness,Neutral
+My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.,electronic fuzz sound,Negative
+My one complaint with this laptop is that I've noticed an electronic fuzz sound coming out of the headphone jack when headphones are plugged in.,headphone jack,Negative
+"While it was highly rated, would I like it? I tried the keyboard at the store, and it seemed ok.",keyboard,Neutral
+"Treat yourself to a more expensive, long-lasting laptop of quality like a Sony, Apple, or Toshiba.",quality,Positive
+"I have had to call with a few questions or issues and they have helped me for free, even without the warranty.",warranty,Positive
+Was searching online for a power supply when I found this site.,power supply,Neutral
+"But to be honest, I don't use my computer for anything like graphics editing and complex data analysis and gaming.",gaming,Neutral
+"But to be honest, I don't use my computer for anything like graphics editing and complex data analysis and gaming.",graphics editing,Neutral
+"But to be honest, I don't use my computer for anything like graphics editing and complex data analysis and gaming.",complex data analysis,Neutral
+Â  I would  rather spend my money on a computer that costs more then a Toshiba that  isn't good at all.,costs,Negative
+(No problem with the ordering or shipping by the way.,shipping,Positive
+And the ram (the thing that makes it faster) comes sporting 2 gigs for high performance to handle more stuff at once and surf the web a whole lot faster than before.,ram,Positive
+And the ram (the thing that makes it faster) comes sporting 2 gigs for high performance to handle more stuff at once and surf the web a whole lot faster than before.,performance,Positive
+And the ram (the thing that makes it faster) comes sporting 2 gigs for high performance to handle more stuff at once and surf the web a whole lot faster than before.,surf the web,Positive
+The one thing I wish it had was a detailed hardcopy manuel.,hardcopy manuel,Negative
+"I edit and burn to DVD a lot of video, so I obviously could not live with a non-functioning drive.",drive,Negative
+"Fast, great visual!",visual,Positive
+It's priced very reasonable and works very well right out of the box.,priced,Positive
+It's priced very reasonable and works very well right out of the box.,works,Positive
+You will need them if you want to reload the OS (I recommend doing if you can to start fresh and optimal).,OS,Neutral
+"while the keyboard itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.",keyboard,Neutral
+"while the keyboard itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.",plate,Negative
+"while the keyboard itself is alright, the plate around it is cheap plastic and makes a hollow sound when using the mouse command buttons.",mouse command buttons,Negative
+There are so many wonderful features and benefits to the new MacBook!,features,Positive
+the mcbook pro notebook will make it easy for you to write and read your emails at blazing speeds.,speeds,Positive
+The only thing i can say is that the touch pad doesnt work like it should all the time.,touch pad,Negative
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",size,Positive
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",features,Positive
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",lighted keyboard,Positive
+"However, I love this particular Mac because its very fast, great size, and has fantastic features like the lighted keyboard and easy mouse pad.",mouse pad,Positive
+Battery life needs more life.,Battery life,Negative
+For some odd reasons the computer doesn't reconize the operation system.,operation system,Negative
+The trackpad was easy to learn and navigate.,trackpad,Positive
+"Applications open in seconds and there are no lags, hiccups or awkward moments when you wonder whether your computer is out for tea.",Applications,Positive
+I respond that I do not have the old computer and this way I would lose the data on my hard drive.,hard drive,Neutral
+Again in February my computer completely failed to the point that it could not load Windows so I contacted Acer to get it fixed thru my Warrenty and it took about 3 days fighting on the phone with agents and it seemed as though NONE of them spoke English.,Windows,Negative
+Again in February my computer completely failed to the point that it could not load Windows so I contacted Acer to get it fixed thru my Warrenty and it took about 3 days fighting on the phone with agents and it seemed as though NONE of them spoke English.,Warrenty,Negative
+Again in February my computer completely failed to the point that it could not load Windows so I contacted Acer to get it fixed thru my Warrenty and it took about 3 days fighting on the phone with agents and it seemed as though NONE of them spoke English.,agents,Negative
+Even though the computer is larger they did not make the keyboard larger.,keyboard,Negative
+We paid for the three year warranty and the extended warranty after that one ended as well.,three year warranty,Neutral
+We paid for the three year warranty and the extended warranty after that one ended as well.,extended warranty,Neutral
+"Its not just slow on the internet, its slow in general.",internet,Negative
+It has just enough RAM to run smoothly and enough memory to satisfy my needs.,RAM,Positive
+It has just enough RAM to run smoothly and enough memory to satisfy my needs.,memory,Positive
+"I acually believe the issue is with the Nvidia grafics card, but still requires a return.",Nvidia grafics card,Negative
+My husband got me this for Chrismas after getting me a very expensve laptop that did not work after 2 days.,work,Negative
+The resolution is even higher then any other laptop on the market.,resolution,Positive
+"Then just the other day, my left ""mouse"" button snapped!","left ""mouse"" button",Negative
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.,keyboard,Positive
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.,feature,Positive
+It is VERY easy to type on and feels great - besides the added feature that the keyboard is lighted.,type,Positive
+"Laptop is advertised as a 15"" but the casing looks like that of a 17"".",casing,Neutral
+"Laptop is advertised as a 15"" but the casing looks like that of a 17"".","15""",Neutral
+"Laptop is advertised as a 15"" but the casing looks like that of a 17"".","17""",Neutral
+The feel of this machine compared to the old MacBook is far superior.,feel,Positive
+"In due course, I'll remove the hard disc from this new MacBook Pro and dump it where it belongs - in the trash.",hard disc,Negative
+"They break down just as often as PCs do, and the only reason they don't get viruses, is because no one makes viruses for them, they're not better in any way, they are worse, try finding virus protection programs for a Mac, they don't exist.",virus protection programs for a Mac,Negative
+"But with A WAY Bigger Screen, and IS able to connect to an HDMI.",Screen,Positive
+"But with A WAY Bigger Screen, and IS able to connect to an HDMI.",HDMI,Positive
+the graphics are awful and the wireless switch it at the top rather than the side which I am used to it being on the side.,graphics,Negative
+the graphics are awful and the wireless switch it at the top rather than the side which I am used to it being on the side.,wireless switch,Negative
+The overall build quality of the unit is excellent and she'd recommend it to anyone else looking for a netbook.,build quality,Positive
+I guess he was the technical person.,technical person,Neutral
+A seventy dollar mouse!,mouse,Negative
+"The repairs were made quickly though I must say, however the second time they shipped it to the incorrect address and it took nearly a week for them to get it to me.",shipped,Negative
+when i first got it i thought the size of it was a joke.,size,Negative
+It is fast and i have not had a problem with internet connection or any other problems.,internet connection,Positive
+I'm really impressed with the quality and performance for the price of the computer.,quality,Positive
+I'm really impressed with the quality and performance for the price of the computer.,performance,Positive
+I'm really impressed with the quality and performance for the price of the computer.,price,Positive
+"But when I received my replacement, I made BOTH recovery DVDs (4), and a driver/application DVD.",recovery DVDs,Neutral
+"But when I received my replacement, I made BOTH recovery DVDs (4), and a driver/application DVD.",driver/application DVD,Neutral
+"In addition, there is photo detection software that will allow you to group all the photos together based upon the people in the picture.",photo detection software,Positive
+The speakers are terrible and are probably the cheapest ones I have ever seen in a laptop so if your planning to listen to music I suggest you get something better.,speakers,Negative
+"So then you may be lucky to get ahold to someone who understands that its no good and they will let you send it back, but of course you are taking a chance of them testing it out to see what has happened, and they tell you that it was not on their side , then you are stuck paying for the repair (the price of a new one).",price,Negative
+"It is so simple to use, I use it more than my desktop.",use,Positive
+I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen.,touchpad,Negative
+I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen.,screen,Negative
+I also had a problem with the touchpad that caused the mouse pointer to jump all over the screen.,mouse pointer,Negative
+I have had no problems with it unlike some hardware defects on past models.,hardware,Positive
+"EITHER WAY, THE KEYBOARD IS UNSATISFACTORY.",KEYBOARD,Negative
+"Well, I have to say since I bought my Mac, I won't ever go back to any Windows.",Windows,Negative
+"I took it in to the Apple store and guess what? They fixed it, no cost out of pocket.",cost,Positive
+"The quality, engineering design and warranty are superior--covers damage from dropping the laptop.",quality,Positive
+"The quality, engineering design and warranty are superior--covers damage from dropping the laptop.",engineering design,Positive
+"The quality, engineering design and warranty are superior--covers damage from dropping the laptop.",warranty,Positive
+"The applications are also very easy to find and maneuver, much easier than any other computer I have ever owned.",applications,Positive
+The large screen gives you the option to comfortably watch movies or TV shows on your computer instead of buying an additional TV for your dorm room.,screen,Positive
+"Great laptop for school, easy to use for beginners in the household.",use,Positive
+"4) Laptop still did not work, blue screen within a week...",work,Negative
+"The only thing that isn't perfect about this netbook is the speakers, they are not loud at all but I expected that.",speakers,Negative
+"Of course, I inspected the other netbooks and clearly their hinges are tighter and I even demonstrate the difference between my netbook and others.",hinges,Negative
+Not to mention the fact that your mac comes fully loaded with all necessary basic programs.,programs,Positive
+Didn't work when shipped from Walmart.com but went into a store and exchanged for a working laptop (same make/model).,work,Negative
+If this is an improvement in Customer Service then I would hate too see what it was before!,Customer Service,Negative
+"All of the programs (Keynote, Pages, Numbers) have an option to save your documents as Microsoft compatible, which really eliminates the need for the actual.",programs,Positive
+"All of the programs (Keynote, Pages, Numbers) have an option to save your documents as Microsoft compatible, which really eliminates the need for the actual.",Keynote,Positive
+"All of the programs (Keynote, Pages, Numbers) have an option to save your documents as Microsoft compatible, which really eliminates the need for the actual.",Pages,Positive
+"All of the programs (Keynote, Pages, Numbers) have an option to save your documents as Microsoft compatible, which really eliminates the need for the actual.",Numbers,Positive
+"Sure, the initial out of pocket expense is greater, but that should not dissuade anyone from the fact that these machines run like none other on the planet, and when I factor in all the money in that I wasted on Geek Squad and the latest patches to de-corrupt my infested PCs, it probably comes out about even anyhow.",expense,Neutral
+"Sure, the initial out of pocket expense is greater, but that should not dissuade anyone from the fact that these machines run like none other on the planet, and when I factor in all the money in that I wasted on Geek Squad and the latest patches to de-corrupt my infested PCs, it probably comes out about even anyhow.",run,Positive
+"The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google ""dell coupons"" you can find codes that take a signifantÂ  amount off the price.",components,Positive
+"The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google ""dell coupons"" you can find codes that take a signifantÂ  amount off the price.",price,Positive
+"The best thing to do is build your own computer, but if u can't company's like dell who allow you to choose the components are better and for the same price you can get a computer who compares to one of apple $2000 systems and if you google ""dell coupons"" you can find codes that take a signifantÂ  amount off the price.",price,Positive
+"There is no cd drive on the computer, which defeats the purpose of keeping files on a cd.",cd drive,Negative
+For me I was lucky and a local store was selling them for $2000 off and Best Buy matched their price so I was able to buy one for under $1000,price,Positive
+"Unfortunately, Apple's quality has continued to slide.",quality,Negative
+I believe that the quality of a mac is worth the price.,quality,Positive
+I believe that the quality of a mac is worth the price.,price,Positive
+sometimes you will be moving your finger and the pointer will not even move.,pointer,Negative
+"I would rate this computer at 5 stars, but considering it has a short life span I can only give it 1 and implore anyone looking at laptops to stay away from this machine.",life span,Negative
+"I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.",design,Positive
+"I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.",looks,Positive
+"I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.",feel,Positive
+"I also love the design, the looks, the feel, and the my toshiba feature is wonderfull.",my toshiba feature,Positive
+The layout of the MacBook is horrible and confusing;,layout,Negative
+Was not happy with one of the programs on it.,one of the programs,Negative
+"Also it is very good for college students who just need a reliable, easy to use computer.",use,Positive
+The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,Touchpad,Negative
+The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,USB,Negative
+The first one sent: Touchpad didn't work The second sent: USB didn't work The third sent: Touchpad didn't work The fourth sent: Hasn't arrived yet.,Touchpad,Negative
+"Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office.",iwork,Positive
+"Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office.",office,Neutral
+"Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office.",word processor,Negative
+"Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office.",windows,Neutral
+"Only other thing is that if you are using this for document creation Apple doesnt provide any kind of word processor (such as works for windows), but iwork is cheap compared to office.",document creation,Neutral
+It is light and the battery last a very long time.,battery,Positive
+"Â  And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",memory,Neutral
+"Â  And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",memory stick,Neutral
+"Â  And at one point, they blame me for installing a bad memory stick when I upgrade my memory for the first time during my purchase of the laptop (I bought the memory stick they recomended).",memory stick,Neutral
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",keys,Negative
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",keyboard,Negative
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",button below the mouse pad,Negative
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",screen,Negative
+"Externally the keys on my keyboard are falling off, after a few uses the paint is rubbing off the button below the mouse pad and where the heals of my hands sit, and the screen has a terrible glare.",paint,Negative
+The next time I had an issue my lightscribe wouldn't work.,lightscribe,Negative
+"The touchpad is extremely sensitive, which is the only drawback.",touchpad,Negative
+also it comes with very useful applications like iphoto that it is the best photo application i have ever had,applications,Positive
+also it comes with very useful applications like iphoto that it is the best photo application i have ever had,iphoto,Positive
+also it comes with very useful applications like iphoto that it is the best photo application i have ever had,photo application,Positive
+"They don t translate from a Mac, even on Word, resulting in a ton of run-on sentences.",Word,Negative
+"The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I like the big screen on it.",17 ince screen,Neutral
+"The acer one computer that I bought is 17 ince screen and its hard to find lap top bags for it, but I like the big screen on it.",screen,Positive
+Summary: They played games with me for the warranty period.,warranty period,Negative
+"InÂ November my computer messed up entirely and wouldn't power on after intalling a Windows update, I had to have my HD flashed and lost EVERYTHING on it, including my school assignments and irriplaceable pictures that were only in digital format and several other things, when this update was installed for some reason I was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history.",HD,Negative
+"InÂ November my computer messed up entirely and wouldn't power on after intalling a Windows update, I had to have my HD flashed and lost EVERYTHING on it, including my school assignments and irriplaceable pictures that were only in digital format and several other things, when this update was installed for some reason I was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history.",drivers,Negative
+"InÂ November my computer messed up entirely and wouldn't power on after intalling a Windows update, I had to have my HD flashed and lost EVERYTHING on it, including my school assignments and irriplaceable pictures that were only in digital format and several other things, when this update was installed for some reason I was unable to roll back the drivers and everything to an earlier working condition because when the update was installed it deleted my history.",Windows update,Negative
+I can have both OSX and Windows XP running at the same time!,OSX,Positive
+I can have both OSX and Windows XP running at the same time!,Windows XP,Positive

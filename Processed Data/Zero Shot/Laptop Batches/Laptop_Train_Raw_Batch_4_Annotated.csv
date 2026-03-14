@@ -1,0 +1,201 @@
+Sentence,Aspect Term,Polarity
+The Nortons virus scan is only for a very short time unlike others that usually are good for a year.,Nortons virus scan,Negative
+It is stamped and not in pieces therefore it is a stronger more resilient frame.,frame,Positive
+I am first time Mac Buyer and am amazed at features and ease of use the Mac offers.,features,Positive
+I am first time Mac Buyer and am amazed at features and ease of use the Mac offers.,use,Positive
+Came fully loaded - good.,loaded,Positive
+"I noticed windows has a new system called Windows 7, what about us Vista users?Â  They should get all the bugs out of Vista before investing in a new system.",Windows 7,Neutral
+"I noticed windows has a new system called Windows 7, what about us Vista users?Â  They should get all the bugs out of Vista before investing in a new system.",Vista,Negative
+"I noticed windows has a new system called Windows 7, what about us Vista users?Â  They should get all the bugs out of Vista before investing in a new system.",Vista,Negative
+"I noticed windows has a new system called Windows 7, what about us Vista users?Â  They should get all the bugs out of Vista before investing in a new system.",windows,Neutral
+"When we bought our new HP comouter in Dec. of 2008, we wanted Windows XP, but were told it would cost an extra $159, so we went with Vista.",Windows XP,Positive
+"When we bought our new HP comouter in Dec. of 2008, we wanted Windows XP, but were told it would cost an extra $159, so we went with Vista.",Vista,Negative
+"The only thing that I have, is the key broad is a little dark to see the letters, would help if it was a little lighter then it is.",key broad,Negative
+"I'm still within the one year warranty but the repair ""depot""  has deemed that this time it was caused by physical abuse and is not  covered.",warranty,Negative
+"I'm still within the one year warranty but the repair ""depot""  has deemed that this time it was caused by physical abuse and is not  covered.","repair ""depot""",Negative
+Â  But I needed a laptop for school use.,school use,Neutral
+This is the complete opposite to an ergonomic design.,design,Negative
+I would like at least a 4 hr. battery life.,battery life,Negative
+The only thing that I don't like about my mac is that sometimes there are programs that I want to be able to run and I am not able to.,programs,Negative
+"Wireless has not been a issue for me, like some others have meantioned.",Wireless,Positive
+"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede.",battery life,Negative
+"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede.",programs,Negative
+"All the things you can do with the trackpad make navigating around the computer and its programs so much simpler, quicker, and easier.",trackpad,Positive
+"All the things you can do with the trackpad make navigating around the computer and its programs so much simpler, quicker, and easier.",programs,Positive
+"All the things you can do with the trackpad make navigating around the computer and its programs so much simpler, quicker, and easier.",navigating,Positive
+I guess the only good thing that came out of these were the speakers and the subwoofer.,speakers,Positive
+I guess the only good thing that came out of these were the speakers and the subwoofer.,subwoofer,Positive
+Theres a built in camera with special effects- for video and photography.,built in camera,Positive
+All for such a great price.,price,Positive
+"Â  Long story short, since I experience so many problems with my laptop every since I bought it from day one, I didn't ask for a new laptop or a refund of what I pay for a crapy laptop, but just an extension of my laptop warranty for another year, they made a big deal of out that and after so many calls and complaints about their products and services, they finally gave in.",warranty,Negative
+Another thing is that after only a month the left mouse key broke and it costed $175 to send it in to fix it.,left mouse key,Negative
+Another thing is that after only a month the left mouse key broke and it costed $175 to send it in to fix it.,costed,Negative
+It has good speed and plenty of hard drive space.,speed,Positive
+It has good speed and plenty of hard drive space.,hard drive space,Positive
+Clear picture on it and everything.,picture,Positive
+"They said that my computer was covered on an extended warranty, and that products withÂ  extended warranties are taken care of through third parties and not Sony itself anymore.",extended warranty,Negative
+"They said that my computer was covered on an extended warranty, and that products withÂ  extended warranties are taken care of through third parties and not Sony itself anymore.",extended warranties,Negative
+Very long-life battery (up to 10-11 hours depending on how you configure power level settings).,battery,Positive
+"Screen is awesome, battery life is good.",Screen,Positive
+"Screen is awesome, battery life is good.",battery life,Positive
+The black model also has a very nice seamless appearance - one of the better looking notebooks I've seen.,appearance,Positive
+The technical service for dell is so 3rd world it might as well not even bother.,technical service for dell,Negative
+The graphics were awful and the warranty isn't even worth the cheap payment on the computer.,graphics,Negative
+The graphics were awful and the warranty isn't even worth the cheap payment on the computer.,warranty,Negative
+"They gave me a hard time yet again, but their was a malfunction in the battery itself, it didn't die.",battery,Negative
+"If you don't feel comfortable doing it yourself, just buy the case and be happy, plus it looks nice, I bought the white one from Best Buy.",case,Positive
+"you can find many laptops with the same performance and even better with lower price, but you cannot find the look, easy, applications, and the experience in mac.",performance,Negative
+"you can find many laptops with the same performance and even better with lower price, but you cannot find the look, easy, applications, and the experience in mac.",price,Negative
+"you can find many laptops with the same performance and even better with lower price, but you cannot find the look, easy, applications, and the experience in mac.",look,Positive
+"you can find many laptops with the same performance and even better with lower price, but you cannot find the look, easy, applications, and the experience in mac.",applications,Positive
+Excellent speed for processing data.,speed,Positive
+When you call tech support you were routed to someone who was in another country and did not know what they were doing.,tech support,Negative
+"It has come into good use for my finances, scheduling, my parents business expenses, and it is definitely amazing for gaming.",gaming,Positive
+"It has come into good use for my finances, scheduling, my parents business expenses, and it is definitely amazing for gaming.",use,Positive
+I was taught to use Photoshop and was amazed.,Photoshop,Positive
+Somehow the system clock got messed up after reboot.,system clock,Negative
+"the only problem is that i had to add 1 gb RAM, the computer was kinda slow.",RAM,Negative
+With the macbook pro it comes with freesecuritysoftware to protect it from viruses and other intrusive things from downloads and internet surfing or emails.,securitysoftware,Positive
+"The driver updates don't fix the issue, very frustrating.",driver updates,Negative
+I will never go back to Windows!,Windows,Negative
+It doesnt work worth a damn.,work,Negative
+It works really well.,works,Positive
+"Bigger HD, better graphics card, and a bid HD.",HD,Positive
+"Bigger HD, better graphics card, and a bid HD.",HD,Positive
+"Bigger HD, better graphics card, and a bid HD.",graphics card,Positive
+The built in camera is very useful when chatting with other techs in remote buildings on our campus.,built in camera,Positive
+"Mine came at $1,700 w/o a DVD burner (!).",DVD burner,Negative
+The DVD burner broke after burning 3 DVD'd during that time!,DVD burner,Negative
+It works fine with our wireless and they've had not problems.,works,Positive
+But you must get the 15 inch.,15 inch,Positive
+Product support very poor as each phone call costs me long distan,Product support,Negative
+"Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.",screen,Positive
+"Overall the computer is very easy to use, the screen is perfect, great computer, my daughter loves.",use,Positive
+Â  The casing of the power cord fried and shocked my husband when he pulled it out of the socket.,casing of the power cord,Negative
+It does not keep internet signals no matter where you bring it.,internet signals,Negative
+It's a great product for a great price!,price,Positive
+"Again, the same problem, the right speaker did not work.",right speaker,Negative
+But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.,price tag,Negative
+But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.,software,Positive
+But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.,updates,Positive
+and the multiple page viewer ( allows you to press one button to see every separate page currently opened at the same time in one screen) are great for those who are working non stop or just shopping online.,multiple page viewer,Positive
+This was the 3rd day and part still had not been shipped.,shipped,Negative
+Keyboard good sized and wasy to use.,Keyboard,Positive
+Keyboard good sized and wasy to use.,use,Positive
+HP said it was out of warranty.,warranty,Neutral
+"I never had this kind of quality issue with Dell (not to say Dell is that great), not with a brand new laptop.",quality,Negative
+wonderful features.,features,Positive
+I had to call HP and ask for a recovery disk because the computer does not come with one and completely redo it all.,recovery disk,Negative
+Im glad that it has such great features in it.,features,Positive
+I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well.,programs,Positive
+I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well.,Office,Negative
+I like those programs better than Office and you can save your files to be completely compatible with the Office programs as well.,Office programs,Positive
+Great wifi too.,wifi,Positive
+"WHEN TYPING, LETTERS AND SPACES ARE FREQUENTLY OMITTED REQUIRING THE USER TO REDO MANY WORDS AND SENTENCES.",TYPING,Negative
+"Â  Only a few days after I received the computer back, the screen froze again.",screen,Negative
+It is not ideal for children because of the temp.,temp,Negative
+Although i do believe that Windows operating system may be to fault for some of the problems.,Windows operating system,Negative
+"Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.",OS,Positive
+"Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.",processor speed,Positive
+"Great OS, fabulous improvements to the existing line bumping up the processor speed and adding the thunderbolt port.",thunderbolt port,Positive
+Â  The lcd screen stopped working on mine after 10 months.,lcd screen,Negative
+Images are crisp and clean.,Images,Positive
+although its windows vista compared to windows xp sucks.,windows vista,Negative
+although its windows vista compared to windows xp sucks.,windows xp,Positive
+"Â  We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same update.",Vista,Negative
+"Â  We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same update.",Adobe Flash player,Negative
+"Â  We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same update.",Internet Explore,Negative
+"Â  We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same update.",Windows update,Negative
+"Â  We have had numerous problems with Vista, such as Adobe Flash player just quits and has to be uninstalled and then reinsalled, Internet Explore just quits and you lose whatever you were working on, also, the same Windows update has appeared on this computer since we got it and has been updated probably 400 times, the same update.",update,Negative
+with the switch being at the top you need to memorize the key combination rather than just flicking a switch.,switch,Negative
+with the switch being at the top you need to memorize the key combination rather than just flicking a switch.,switch,Negative
+"One more tip, please purchase this model and get a 4GB stick of RAM to save you $10",4GB stick of RAM,Neutral
+It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!,hardrive,Negative
+It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!,touch control buttons,Negative
+It has bein into the shop to get a new hardrive 2 times and to fix the touch control buttons on the keyboard!,keyboard,Negative
+I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.,performance,Positive
+"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",iLife software,Positive
+"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",iPhoto,Positive
+"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",iMovie,Positive
+"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",iWeb,Positive
+"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",iTunes,Positive
+"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",GarageBand,Positive
+"The computer runs very fast with no problems and the iLife software that comes with it (iPhoto, iMovie, iWeb, iTunes, GarageBand) is all very helpful as well.",runs,Positive
+At first it worked well for a month or so then the system board failed and I send it in to toshiba some complaints and three weeks later I then receive my laptop back only to discover that it still has the same problem so now I have to send it back again to get it fixed again.,system board,Negative
+"Â  Until I bought the Dell, I thought you just looked for what you wanted (size, software, options, hardware) and purchase the best deal you could find.",size,Neutral
+"Â  Until I bought the Dell, I thought you just looked for what you wanted (size, software, options, hardware) and purchase the best deal you could find.",software,Neutral
+"Â  Until I bought the Dell, I thought you just looked for what you wanted (size, software, options, hardware) and purchase the best deal you could find.",hardware,Neutral
+"It has plenty of memory, lots of hard drive, and great graphics.",memory,Positive
+"It has plenty of memory, lots of hard drive, and great graphics.",hard drive,Positive
+"It has plenty of memory, lots of hard drive, and great graphics.",graphics,Positive
+It didn't take me long to get switched over to the Mac computer programs and navigation - it's been just fine and like the way this laptop functions much better.,programs,Positive
+It didn't take me long to get switched over to the Mac computer programs and navigation - it's been just fine and like the way this laptop functions much better.,navigation,Positive
+"However, my girlfriend realized that the netbook's hinge is a bit loose (when you open or close the LCD).",hinge,Negative
+"However, my girlfriend realized that the netbook's hinge is a bit loose (when you open or close the LCD).",LCD,Neutral
+My problem was with DELL Customer Service.,DELL Customer Service,Negative
+"Newegg's RMA service was great as always, I contacted them late Friday night, and they issued me an RMA number and a PrePaid UPS shipping label the very next morning on Saturday.",RMA service,Positive
+Design: very durable.,Design,Positive
+It is easy to go from one keyboard to another.,keyboard,Positive
+Has a 5-6 hour battery life.,battery life,Neutral
+My ONLY issues are: 1) the screen/video resolution won't increase to a higher resolution then 1024 x 60,screen/video resolution,Negative
+My ONLY issues are: 1) the screen/video resolution won't increase to a higher resolution then 1024 x 60,resolution,Negative
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",applications,Neutral
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",Dreamweaver,Neutral
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",Final Cut Pro 7,Neutral
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",Photoshop,Neutral
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",Safari,Neutral
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",Firefox,Neutral
+"I run Dreamweaver, Final Cut Pro 7, Photoshop, Safari, Firefox, MSN Messenger and a few other applications constantly at the same time.",MSN Messenger,Neutral
+"Â  I was told by many  that it was a great computer, but we got one of these, and it worked  great for one year, and as soon as the warrenty was up, then it got  really bad.",warrenty,Negative
+Ive had to call tech support many times.,tech support,Negative
+"The Apple applications (ex.iPhoto) are fun, easy, and really cool to use (unlike the competition)!",Apple applications,Positive
+"The Apple applications (ex.iPhoto) are fun, easy, and really cool to use (unlike the competition)!",iPhoto,Positive
+Not to mention it has shit gigs.,gigs,Negative
+"I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and CD burners.",memory,Neutral
+"I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and CD burners.",17-inch screen,Neutral
+"I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and CD burners.",DVD,Neutral
+"I paid for extra memory and the 17-inch screen, as well as the top of the line DVD and CD burners.",CD burners,Neutral
+"Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, watching movies (720p) on occasion and creating presentations.",web browsing,Positive
+"Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, watching movies (720p) on occasion and creating presentations.",uploading photos,Positive
+"Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, watching movies (720p) on occasion and creating presentations.",watching movies,Positive
+"Its pretty fast and does not have hiccups while I am using it for web browsing, uploading photos, watching movies (720p) on occasion and creating presentations.",creating presentations,Positive
+"Quality Display  I love HP,, it's the only computer/printer we will buy.",Quality Display,Positive
+"Despite the inconvenient weight, I opted for the 12 cell battery.",weight,Negative
+"Despite the inconvenient weight, I opted for the 12 cell battery.",12 cell battery,Neutral
+The case is carved out of a single block of aluminum.,case,Positive
+Â     First it burned or fused the power adapter plug.,power adapter plug,Negative
+"the features are great, the only thing it needs is better speakers.",features,Positive
+"the features are great, the only thing it needs is better speakers.",speakers,Negative
+"It was still working, but there was nothing on the screen.",screen,Negative
+I bought this laptop and found its TAB is not functioning.,TAB,Negative
+Â  Toshiba is aware of the issue but unless the extended warrenty is bought Toshiba will do nothing about it.,extended warrenty,Negative
+"-Called headquarters again, they report that TFT panel is broken, should be fixed by the end of the week (week 3).",TFT panel,Negative
+"Navigation through the computer is far superior compared to Windows operating systems, as well.",Navigation,Positive
+"Navigation through the computer is far superior compared to Windows operating systems, as well.",Windows operating systems,Negative
+"The screen is framed by half- to a full-inch margin that is obviously unnecessary, reduces the screen size and increases the bulk.",screen,Negative
+"The screen is framed by half- to a full-inch margin that is obviously unnecessary, reduces the screen size and increases the bulk.",screen size,Negative
+"The screen is framed by half- to a full-inch margin that is obviously unnecessary, reduces the screen size and increases the bulk.",bulk,Negative
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",music software,Negative
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",software,Negative
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",picture,Negative
+"Though the picture, video, and music software is nowhere close to professional grade software Im used to (CS5) but does the job for beginner and even intermediate media designers.",video,Negative
+The much lauded combined touch pad and clicker is a nightmare.,combined touch pad and clicker,Negative
+"The Unibody construction is solid, sleek and beautiful.",Unibody construction,Positive
+This MacBook is an outstanding product with great value.,value,Positive
+I had to re-install Windows within two weeks of the purchase and soon discovered cracks in the screen hinges.,Windows,Negative
+I had to re-install Windows within two weeks of the purchase and soon discovered cracks in the screen hinges.,screen hinges,Negative
+A SECOND PROBLEM INVOLVES THE BATTERY WHICH IS ADVERTISED AS HAVING A STORAGE LIFE OF 11 HOURS BUT WHEN FULLY CHARGED SHOWS ONLY 7 HOURS OF SERVICE.,BATTERY,Negative
+A SECOND PROBLEM INVOLVES THE BATTERY WHICH IS ADVERTISED AS HAVING A STORAGE LIFE OF 11 HOURS BUT WHEN FULLY CHARGED SHOWS ONLY 7 HOURS OF SERVICE.,STORAGE LIFE,Negative
+A SECOND PROBLEM INVOLVES THE BATTERY WHICH IS ADVERTISED AS HAVING A STORAGE LIFE OF 11 HOURS BUT WHEN FULLY CHARGED SHOWS ONLY 7 HOURS OF SERVICE.,SERVICE,Negative
+and plenty of storage with 250 gb(though I will upgrade this and the ram..),storage,Positive
+and plenty of storage with 250 gb(though I will upgrade this and the ram..),ram,Neutral
+"No temporary replacement, they are out of replacements because ""many computers had problems with the Nvidia chipset""-Inquired status of repair.",Nvidia chipset,Negative
+I took it to friend who temporarily fixed it and I finally paid about 1500 for the extended warranty.,extended warranty,Negative
+"Programs would crash all the time, and it turned out to be a very unstable, unreliable laptop for me.",Programs,Negative
+I BOUGHT THIS LAP TOP AND THE CHARGE TIME DOSEN'T LAST AS LONG AS THEY SAY IT WILL MORE LIKE 2 HOURS,CHARGE TIME,Negative
+"Also, because of the size and consistancy of the laptop computer, some websites wouldn't even attempt to work on the computer because of browser problems.",size,Negative
+"Also, because of the size and consistancy of the laptop computer, some websites wouldn't even attempt to work on the computer because of browser problems.",consistancy,Negative
+"the key bindings take a little getting used to, but have loved the Macbook Pro.",key bindings,Negative
+Keyboard is reasonable size.,Keyboard,Positive
+Keyboard is reasonable size.,size,Positive
+I find myself using the 10-key more than I thought I would.,10-key,Positive

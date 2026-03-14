@@ -1,0 +1,201 @@
+Sentence,Aspect Term,Polarity
+The only thing is that the battery won't last more than 1/2 an hour.,battery,Negative
+The first fell apart right after the 1-year-warranty.,1-year-warranty,Neutral
+Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good.,word,Negative
+Oh and it has word and stuff but its a trial verion so after about a month or so when you go to open it it asks for a product key which didnt come with the computer and even after clicking cancel it wont let you use it at all I use the old word processer which works good.,word processer,Positive
+The keyboard has a wonderful nature feel.,keyboard,Positive
+"They went through asking me open up various components, taking battery out, hard disk apart, and after 2 hours on phone could not fix it.",battery,Neutral
+"They went through asking me open up various components, taking battery out, hard disk apart, and after 2 hours on phone could not fix it.",hard disk,Neutral
+The battery doesn't last long but I'm sure an upgrade battery would solve that problem.,battery,Negative
+The battery doesn't last long but I'm sure an upgrade battery would solve that problem.,battery,Neutral
+"I was looking too closely at the other performance specs and while comparing, I took it for granted that these features were standard.",performance specs,Neutral
+"I was looking too closely at the other performance specs and while comparing, I took it for granted that these features were standard.",features,Neutral
+I have no idea how this could have even gotten past quality control during production.,quality control,Negative
+"I bought this last week, and the very next day had to return it because it over heated and the touch-mouse stopped responding.",touch-mouse,Negative
+"Oh yea, has no numeric pad on the side.",numeric pad,Negative
+"The cover for the DVD drive soon came off, too--a mark of poor construction quality.",cover for the DVD drive,Negative
+"The cover for the DVD drive soon came off, too--a mark of poor construction quality.",construction quality,Negative
+But the arm velcro is torn after one use.,arm velcro,Negative
+The software is amazing.,software,Positive
+"We carry the netbook around here and there, hence it's kinda of irritating when the LCD just ""slide"" downwards.",LCD,Negative
+"The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.",2 GB of RAM,Positive
+"The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.",Windows 7,Positive
+"The 2 GB of RAM is plenty, able to run Windows 7 and at least 2 or 3 other programs with next to no slowdown.",programs,Positive
+"The battery life is amazing, the versitility is outstanding.",battery life,Positive
+"The battery life is amazing, the versitility is outstanding.",versitility,Positive
+"It is known as Safari, and if you are doing any website work, you should know that many hosting companies do not support it.",Safari,Negative
+Vista is a nightmare.,Vista,Negative
+The program came with the computer and works beautifully.,program,Positive
+"the hinge design forced you to place various connections all around the computer, left right and front.",hinge design,Negative
+"I was loving this Netbook because it had an amazing screen and display and was small and light, but after 1 week it stopped openning web pages for me (even after installing new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",screen,Positive
+"I was loving this Netbook because it had an amazing screen and display and was small and light, but after 1 week it stopped openning web pages for me (even after installing new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",display,Positive
+"I was loving this Netbook because it had an amazing screen and display and was small and light, but after 1 week it stopped openning web pages for me (even after installing new browsers) then eventually it just started giving me a blue screen and crashing everytime I booted it.",browsers,Neutral
+The So called laptop Runs to Slow and I hate it!,Runs,Negative
+Charger seems large for this class of computer.,Charger,Negative
+I dislike the quality and the placement of the speakers.,speakers,Negative
+"The screen graphics and clarity, and sharpness are great.",screen graphics,Positive
+"The screen graphics and clarity, and sharpness are great.",clarity,Positive
+"The screen graphics and clarity, and sharpness are great.",sharpness,Positive
+"So I called customer support (which is good too) and they went through it and it is just a safety feature and it does not affect performance at all, I just chose to hide the message.",customer support,Positive
+"So I called customer support (which is good too) and they went through it and it is just a safety feature and it does not affect performance at all, I just chose to hide the message.",performance,Neutral
+"So I called customer support (which is good too) and they went through it and it is just a safety feature and it does not affect performance at all, I just chose to hide the message.",safety feature,Neutral
+The unibody design is edgy and durable.,unibody design,Positive
+STOPPED BOOTING UP less than a week after my one-year warranty was up.,BOOTING UP,Negative
+STOPPED BOOTING UP less than a week after my one-year warranty was up.,one-year warranty,Neutral
+"But, for the cost this is a winner.",cost,Positive
+Later it held zero charge and its replacement worked for less than three months.,charge,Negative
+"Â  Also, the battery does not last very long at all.",battery,Negative
+"I bought it from HSN because it was ""bundled"" with extra software, but as it turns out, that software just crashes it more often.....",software,Negative
+"I bought it from HSN because it was ""bundled"" with extra software, but as it turns out, that software just crashes it more often.....",software,Negative
+I looked around and based off my price/features comparison from a brand I trusted I landed here.,price,Neutral
+I looked around and based off my price/features comparison from a brand I trusted I landed here.,features,Neutral
+Â  I constantly had to send my laptop in for services every 3 months and it always seems to be the same problem that they said they had already fixed.,services,Negative
+Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very useful for designers.,performance,Positive
+Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very useful for designers.,speed,Positive
+Strong performance in this device makes use of fun and a strong sense of the era of speed This device serves all modern requirements is a very strong game and is very useful for designers.,use,Positive
+Unless you need the Bluetooth 3.,Bluetooth 3,Neutral
+I was sorly disapointed to discover that HP (what I thought was a reputable company) wouldn't honor the warrenty when the fan blade fell apart.,warrenty,Negative
+I was sorly disapointed to discover that HP (what I thought was a reputable company) wouldn't honor the warrenty when the fan blade fell apart.,fan blade,Negative
+"More times that not the screen pops up saying I have a bad internet connection, or the page can't be displayed.",internet connection,Negative
+Do yourself a favor and invest in a few external harddrives if you are planning on purchasing this laptop.,external harddrives,Neutral
+I don't understand why only Windows 7 Starter is included.,Windows 7 Starter,Negative
+"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",functionality,Positive
+"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",value,Positive
+"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",simplicity,Positive
+"While most people say that PCs hold functionality and value and Macs are just pretty to look at, I think there's something to be said about the simplicity of Macs.",look,Positive
+My macbook is so much better looking and so thin!,looking,Positive
+The ease of use is wonderful.,use,Positive
+This system came loaded with Windows 7 Starter.,Windows 7 Starter,Neutral
+"-When battery life went to 4 hours or less, took it to the MacHouse Amsterdam for repair (26th of August).",battery life,Negative
+The battery gets so HOT it is scary.,battery,Negative
+Best thing is I can use existing 32 bit old programs.,programs,Positive
+It's so nice to look at and the keys are easy to type with.,keys,Positive
+It's so nice to look at and the keys are easy to type with.,look,Positive
+I am forever changed and will no longer buy a Windows based machine for personal use.,Windows,Negative
+The only thing I would change about it is the mouse keys.,mouse keys,Negative
+"It is absolutely horrible to use, despite all its so called advanced features.",features,Positive
+"It is absolutely horrible to use, despite all its so called advanced features.",use,Negative
+"Before, I reloaded with Windows 7 Ultimate and used only the downloaded drivers from Acer's site.",drivers,Neutral
+"Before, I reloaded with Windows 7 Ultimate and used only the downloaded drivers from Acer's site.",Windows 7 Ultimate,Neutral
+I have to keep turning it until it decides to lower and there is no mute.,mute,Negative
+It's still beautiful and has better color reproduction than I could ever expect from a notebook.,color reproduction,Positive
+After that I turned to email in my next vain help to get them to acknowledge that the warranty was still valid.,warranty,Neutral
+He loves it and it is easy to use and well the schools start teaching the kids early about computers so it was easy for him to get started.,use,Positive
+"u can do what u want in just few seconds, even to start up your computer takes few seconds.",start up,Positive
+"Also, macbooks come with much more features which are so cool!",features,Positive
+They sent out a Sony 'Certified' technician.,Sony 'Certified' technician,Neutral
+They have developed excellent proprietary software for editing video and pictures and I'm looking forward to utilizing these tools on the regular.,proprietary software,Positive
+Getting the Apple Care plan is a must.,Apple Care plan,Positive
+overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive.,cd drive,Neutral
+overall i would recomend this to anybody and tell them that if they want to burn their music or play there video games to buy the cd drive.,video games,Neutral
+"I am constantly trying to uninstall programs, clean cookies, and delete unused files.",programs,Neutral
+"The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other features.",processor,Positive
+"The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other features.",memory,Positive
+"The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other features.",hard drive,Positive
+"The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other features.",web cam,Positive
+"The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other features.",screen,Positive
+"The dv4 boasted a faster processor, more memory, and a bigger hard drive than my old computer, plus a better quality web cam, nicer screen, and many other features.",features,Positive
+The only downfall is the battery only last 1.5-2.0 hrs when not plugged in.,battery,Negative
+The graphics on this computer are also stellar - very clear and vivid.,graphics,Positive
+"Aside from the trial software and the short battery life, lack of a webcam, its great.",trial software,Negative
+"Aside from the trial software and the short battery life, lack of a webcam, its great.",battery life,Negative
+"Aside from the trial software and the short battery life, lack of a webcam, its great.",webcam,Negative
+"As a die-hard Windows enthusiast, I shunned the idea of a Mac until this point.",Windows,Positive
+I think that if it is the motherboard again so soon that they should replace it.,motherboard,Negative
+"The computer loads in about a 1/10th of the time that my PC did, and I have all of the programs that were on my PC.",programs,Neutral
+"The computer loads in about a 1/10th of the time that my PC did, and I have all of the programs that were on my PC.",loads,Positive
+"Graphics are clean and sharp, internet interfaces are seamless.",Graphics,Positive
+"Graphics are clean and sharp, internet interfaces are seamless.",internet interfaces,Positive
+"The newer black keyboard took a little bit away from the previous gray one which looked really slick, but it is still a great notebook!",black keyboard,Negative
+Sony parts reliability and quality of service is recenlty the worst.,service,Negative
+"As with any laptop not purchased with software options, it comes with a lot of what I consider useless applications.",software options,Neutral
+"As with any laptop not purchased with software options, it comes with a lot of what I consider useless applications.",applications,Negative
+"Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",features,Neutral
+"Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",functioning,Neutral
+"Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",programs,Neutral
+"Its Office compatible, but the features and its functioning is all new again so you might as well save the money and just learn the pre installed mac programs.",Office,Neutral
+It just works flawlessly!,works,Positive
+"Do you think I purposely ""destroy"" my netbook, so that I can demand a new set? Do you think it's fun to take public transport all the way to the service center and get a non-satisfactory solution? Or rather NO solution.",service center,Negative
+I'm having the laptop returned unrepaired since paying $176 every 3  months just isn't worth it (that's about how long the port seems to  last).,port,Negative
+Â  also the battery is completely shot.,battery,Negative
+/ awesome cooling system/ much better grafics card (ATI 5870) / 8GB RAM/ LED backlit screen...,cooling system,Positive
+/ awesome cooling system/ much better grafics card (ATI 5870) / 8GB RAM/ LED backlit screen...,grafics card,Positive
+/ awesome cooling system/ much better grafics card (ATI 5870) / 8GB RAM/ LED backlit screen...,LED backlit screen,Positive
+/ awesome cooling system/ much better grafics card (ATI 5870) / 8GB RAM/ LED backlit screen...,8GB RAM,Positive
+The biggest problem is that the box had no instructions in it.,instructions,Negative
+"But after using it a couple of weeks, the overall operation is poor.",operation,Negative
+"Compared to similarly spec'd PCs, this machine is good value, well built and works easily right out of the box.",value,Positive
+"Compared to similarly spec'd PCs, this machine is good value, well built and works easily right out of the box.",built,Positive
+"Compared to similarly spec'd PCs, this machine is good value, well built and works easily right out of the box.",works,Positive
+Screen is crystal clear and the system is very responsive.,Screen,Positive
+Screen is crystal clear and the system is very responsive.,system,Positive
+I will stack it up against laptops that cost twice as much any day.,cost,Positive
+Or the cursor would show up some place else.,cursor,Negative
+It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.,software,Neutral
+It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.,operate,Positive
+It is easy to operate and I have already ordered more software and gadgets for my new Rolls Royce of laptops.,gadgets,Neutral
+"it might be something deep within Windows, for I was unable to create a disk image on my hard drive.",Windows,Negative
+"it might be something deep within Windows, for I was unable to create a disk image on my hard drive.",hard drive,Neutral
+"it might be something deep within Windows, for I was unable to create a disk image on my hard drive.",disk image,Neutral
+"The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!",track pad,Positive
+"The track pad to me is what really stands out though, you can do several different things with it just depending on how many fingers you use on the track pad, awesome thinking Apple!",track pad,Positive
+"Â  Now I had not tried to use this since the disc drive had been replaced and after taking it back to the Geek Squad I found out they had accidently not used the right drive when they replaced the first one, so back it went to get the correct drive.",disc drive,Neutral
+"Â  Now I had not tried to use this since the disc drive had been replaced and after taking it back to the Geek Squad I found out they had accidently not used the right drive when they replaced the first one, so back it went to get the correct drive.",drive,Neutral
+"Â  Now I had not tried to use this since the disc drive had been replaced and after taking it back to the Geek Squad I found out they had accidently not used the right drive when they replaced the first one, so back it went to get the correct drive.",drive,Neutral
+"First, you ll discover that the word processing program known as  Appleworks  rarely translates perfectly on anyone else s computer, if it translates at all.",Appleworks,Negative
+"First, you ll discover that the word processing program known as  Appleworks  rarely translates perfectly on anyone else s computer, if it translates at all.",word processing program,Negative
+I already have a HP laptop I bought last year that's standard size.,size,Neutral
+Battery is not upgradable to a longer life battery.,Battery,Negative
+Battery is not upgradable to a longer life battery.,battery,Neutral
+apple has a reputation and is well known for its easy usage.,usage,Positive
+Returned laptop for a 3rd repair and it came back with previous problems fixed (except for speaker grill) but the unit started locking up during use and eventually would not operate at all.,speaker grill,Negative
+"I just plug this into my 22"" Monitor and the speedy MacOSX performs just as well on this dual-core that my Dell did with Windows 7 with a quad-core.",MacOSX,Positive
+"I just plug this into my 22"" Monitor and the speedy MacOSX performs just as well on this dual-core that my Dell did with Windows 7 with a quad-core.",Windows 7,Neutral
+"I just plug this into my 22"" Monitor and the speedy MacOSX performs just as well on this dual-core that my Dell did with Windows 7 with a quad-core.",dual-core,Positive
+"I just plug this into my 22"" Monitor and the speedy MacOSX performs just as well on this dual-core that my Dell did with Windows 7 with a quad-core.",quad-core,Neutral
+"I just plug this into my 22"" Monitor and the speedy MacOSX performs just as well on this dual-core that my Dell did with Windows 7 with a quad-core.","22"" Monitor",Neutral
+"Love the graphics, awesome programs (including Garageband), and really cool default background.",graphics,Positive
+"Love the graphics, awesome programs (including Garageband), and really cool default background.",programs,Positive
+"Love the graphics, awesome programs (including Garageband), and really cool default background.",Garageband,Positive
+"Love the graphics, awesome programs (including Garageband), and really cool default background.",default background,Positive
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",Screen,Positive
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",keyboard,Positive
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",screen,Positive
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",island backlit keyboard,Positive
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",multi-touch mouse,Positive
+"Screen, keyboard, and mouse: If you cant see yourself spending the extra money to jump up to a Mac the beautiful screen, responsive island backlit keyboard, and fun multi-touch mouse is worth the extra money to me alone.",mouse,Positive
+The OS takes some getting used to especially after being a Windows user for so long but the learning curve is so worth it!,OS,Positive
+The OS takes some getting used to especially after being a Windows user for so long but the learning curve is so worth it!,Windows,Neutral
+"I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).",iWork,Neutral
+"I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).",programs,Neutral
+"I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).",Microsoft Office,Neutral
+"I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).",word processing,Neutral
+"I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).",spreadsheets,Neutral
+"I also purchased iWork to go with it which has programs for word processing, spreadsheets, and presentations (similar to Microsoft Office).",presentations,Neutral
+"Overall, I experienced a huge change in that my mac runs pretty fast compared to my old PC.",runs,Positive
+When I got the computer back and realizwed it still was not correct HP told me it was out of warranty and now it was my problem.,warranty,Neutral
+It also came with a built it web cam which is great because I can see an communicate with my family members back home.,built it web cam,Positive
+Good monitor and performed well.,monitor,Positive
+Good monitor and performed well.,performed,Positive
+It was secure and easy to navigate.,navigate,Positive
+"I was a little weary at purchasing another 13"" macbook almost 2 years later but t looks like the newer macbooks have gotten its current line of graphics cards in order this time around.",graphics cards,Positive
+The machine has a bluray player the book has no mention of it or how to connect it to your HDTV.,bluray player,Negative
+The machine has a bluray player the book has no mention of it or how to connect it to your HDTV.,book,Negative
+They are by far the easiest systems to actually learn about computers with.,systems,Positive
+this apple navigates you thru the unexplored world of the internet.,internet,Positive
+"The video card is great for media, and above average for gaming, but not a gamers first choice.",video card,Positive
+"The video card is great for media, and above average for gaming, but not a gamers first choice.",gaming,Positive
+"The video card is great for media, and above average for gaming, but not a gamers first choice.",media,Positive
+"I had of course bought a 3 year warranty, so I sent it in to be replaced and (almost 2 months later) the dv4 is what the sent me as a replacement.",3 year warranty,Neutral
+"Apparently there is a manufacturing defect, something with the amount of thermal paste.",thermal paste,Negative
+Despite the claims of the Apple apologists (a vice of which I am recently myself reformed) the internals of Mac laptops are NO different from PCs' at this point.,internals,Neutral
+Took several hours with customer support before I could even start the PC out of the box.,customer support,Negative
+Asus facial recognition doesn't work and windows logon isn't either.,facial recognition,Negative
+Asus facial recognition doesn't work and windows logon isn't either.,windows logon,Negative
+Windows Vista makes this computer almost unusable for online service.,Windows Vista,Negative
+Windows Vista makes this computer almost unusable for online service.,online service,Negative
+"I contacted Acer and they are giving me FREE recovery DVDs, so don't go and pay for them, just ask for them and they should give them to you.",recovery DVDs,Positive
+Now when I order I did not go full scale for the webcam or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag.,webcam,Neutral
+Now when I order I did not go full scale for the webcam or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag.,keyboard,Neutral
+Now when I order I did not go full scale for the webcam or full keyboard I wanted something for basics of being easy to carry when I use crutchs or wheelchair and with a backpack laptop bag.,carry,Positive
+Can listen to my music and watch my videos with ease and with a great display.,display,Positive

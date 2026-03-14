@@ -1,0 +1,161 @@
+ Guidelines summary:
+
+These guidelines detail Aspect Based Sentiment Analysis Annotation for restaurant and laptop customer reviews. The
+
+aim is to determine aspect terms and their sentiment polarities within sentences. Aspect terms are words or phrases
+
+describing the specific attributes of the target entity. Sentiment polarity can be positive, negative, or neutral. For
+
+aspect terms, annotators should mark nominal phrases explicitly mentioning aspects and verbs or verbal names of
+
+aspects. Subjectivity indicators, references to the target entity as a whole, and the name, type, or model of the laptop or
+
+restaurant should not be considered as aspect terms. Also, pronouns and implicit aspect terms should not be annotated.
+
+For sentiment polarity, an aspect term should be classified as positive or negative if the sentence expresses a positive or
+
+negative opinion. Neutral polarity should be assigned when a neutral sentiment or factual information is given about an
+
+aspect, or when the sentiment is inferred but not explicit.
+
+
+
+You will be given a excel file containing some sentences. Your task is to follow the guidelines above and give output following the JSON schema below, for each sentence in the excel file.
+
+
+
+ JSON schema
+
+{‘name’: ‘extract_aspects_and_polarities’, ‘description’: ‘Extract sentiment aspects and polarities from a text’, ‘parameters’: {‘type’: ‘object’, ‘properties’: {‘aspects’: {‘type’: ‘array’, ‘description’: ‘An array of aspects and their
+
+polarities. If no aspects are mentioned in the text, use an empty array.’, ‘minItems’: 0, ‘items’: {‘type’: ‘object’,
+
+‘properties’: {‘term’: {‘type’: ‘string’, ‘description’: ‘An aspect term, which is a verbatim text snippet. Single or
+
+multiword terms naming particular aspects of the reviewed product or service.’}, ‘polarity’: {‘type’: ‘string’, ‘enum’:
+
+[‘positive’, ‘neutral’, ‘negative’], ‘description’: “The polarity expressed towards the aspect term. Valid polarities are
+
+‘positive’, ‘neutral’, ‘negative’.”}}, ‘required’: [‘term’, ‘polarity’]}}}, ‘required’: [‘aspects’]}}
+
+
+
+Here are a few examples:
+
+Example 1:
+User: Drivers updated ok but the BIOS update froze the system up and the computer shut down.
+Assistant: [
+  {
+    "sentence": "Drivers updated ok but the BIOS update froze the system up and the computer shut down.",
+    "aspects": [
+      {"term": "Drivers", "polarity": "positive"},
+      {"term": "BIOS update", "polarity": "negative"},
+      {"term": "system", "polarity": "negative"}
+    ]
+  }
+]
+
+Example 2:
+User: The food was absolutely amazing!!
+Assistant: [
+  {
+    "sentence": "The food was absolutely amazing!!",
+    "aspects": [
+      {"term": "food", "polarity": "positive"}
+    ]
+  }
+]
+
+Example 3:
+User: I have had to send in my laptop three times to get it fixed.
+Assistant: [
+  {
+    "sentence": "I have had to send in my laptop three times to get it fixed.",
+    "aspects": []
+  }
+]
+
+Example 4:
+User: So, the menu is written in chalk above your head and it all sounds delicious.
+Assistant: [
+  {
+    "sentence": "So, the menu is written in chalk above your head and it all sounds delicious.",
+    "aspects": [
+      {"term": "menu", "polarity": "neutral"}
+    ]
+  }
+]
+
+Example 5:
+User: EITHER THE COMPUTER IS TOO SLOW TO DETECT THE KEYS TYPED (THIS IS UNLIKELY AS I AM A SLOW TYPIST) OR THE KEYBOARD SIMPLY DOES NOT DETECT THE KEYS BEING TYPED.
+Assistant: [
+  {
+    "sentence": "EITHER THE COMPUTER IS TOO SLOW TO DETECT THE KEYS TYPED (THIS IS UNLIKELY AS I AM A SLOW TYPIST) OR THE KEYBOARD SIMPLY DOES NOT DETECT THE KEYS BEING TYPED.",
+    "aspects": [
+      {"term": "KEYS", "polarity": "negative"},
+      {"term": "KEYBOARD", "polarity": "negative"},
+      {"term": "KEYS", "polarity": "negative"}
+    ]
+  }
+]
+
+Example 6:
+User: The service was bad, the food took to forever to come, we sat on the upper level.
+Assistant: [
+  {
+    "sentence": "The service was bad, the food took to forever to come, we sat on the upper level.",
+    "aspects": [
+      {"term": "service", "polarity": "negative"},
+      {"term": "food", "polarity": "negative"}
+    ]
+  }
+]
+
+Example 7:
+User: -4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.
+Assistant: [
+  {
+    "sentence": "-4 RAM slots, 2 HDD Bays*, 16GB RAM support -No Wireless Issues, at least for me.",
+    "aspects": [
+      {"term": "RAM slots", "polarity": "neutral"},
+      {"term": "HDD Bays", "polarity": "neutral"},
+      {"term": "16GB RAM support", "polarity": "neutral"},
+      {"term": "Wireless", "polarity": "positive"}
+    ]
+  }
+]
+
+Example 8:
+User: Definitely worth the trip to Battery Park City!
+Assistant: [
+  {
+    "sentence": "Definitely worth the trip to Battery Park City!",
+    "aspects": []
+  }
+]
+
+Example 9:
+User: Mine came at $1,700 w/o a DVD burner (!).
+Assistant: [
+  {
+    "sentence": "Mine came at $1,700 w/o a DVD burner (!).",
+    "aspects": [
+      {"term": "DVD burner", "polarity": "negative"}
+    ]
+  }
+]
+
+Example 10:
+User: I liked the food at this quasi-thai restaurant.
+Assistant: [
+  {
+    "sentence": "I liked the food at this quasi-thai restaurant.",
+    "aspects": [
+      {"term": "food", "polarity": "positive"},
+      {"term": "quasi-thai", "polarity": "positive"}
+    ]
+  }
+]
+
+
+Do make sure you have performed the task for each and every sentence in the excel file. Give the output JSON in the chat itself.
