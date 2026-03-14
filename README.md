@@ -1,6 +1,6 @@
 # IndiaMediaLens: LLM-Driven Stance Detection
 
-This repository contains the core training, evaluation, and deployment scripts for **IndiaMediaLens**, an empirical platform designed to monitor editorial stance and regulatory accountability in Indian digital print media.
+This repository contains the core training, evaluation, and deployment scripts for **IndiaMediaLens**, a platform designed to monitor editorial stance and regulatory accountability in Indian digital print media.
 
 ## Project Overview
 The project evaluates the effectiveness of Large Language Models (LLMs) in performing Aspect-Based Sentiment Analysis (ABSA) and Stance Detection on complex political news discourse. By comparing zero-shot foundation models against domain-specific fine-tuned models, this research highlights the "Generalization Gap" when shifting from standard product sentiment benchmarks to political stance evaluation.
