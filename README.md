@@ -1,5 +1,8 @@
 # IndiaMediaLens: LLM-Driven Stance Detection
 
+
+Note: This is some old work, the latest work is in BERTaav folder on this GitHub profile (soon to be updated with the ongoing work).
+
 This repository contains the core training, evaluation, and deployment scripts for **IndiaMediaLens**, a platform designed to monitor editorial stance and regulatory accountability in Indian digital print media.
 
 ## Project Overview
@@ -38,3 +41,5 @@ The models were first evaluated on the SemEval-2014 Laptop dataset (In-Distribut
 
 ## Future Work: Argument Mining
 To resolve the Generalization Gap and the Conflict/Neutral ambiguity, the next phase of IndiaMediaLens will integrate **Argument-Grounded Stance Detection**. By linking ABSA outputs to argument mining frameworks, the system will extract specific premises that justify media stances, moving beyond sentiment pattern-matching into structural logical analysis.
+
+Note: This work is now being continued as BERTaav (https://huggingface.co/datasets/Shubh1198/BERTaav) at Inria Centre at Univ Cote d'Azur as a part of Erasmus+ International Mobility. Full work yet to be published.
