@@ -8,6 +8,10 @@ This repository contains the core training, evaluation, and deployment scripts f
 ## Project Overview
 The project evaluates the effectiveness of Large Language Models (LLMs) in performing Aspect-Based Sentiment Analysis (ABSA) and Stance Detection on complex political news discourse. By comparing zero-shot foundation models against domain-specific fine-tuned models, this research highlights the "Generalization Gap" when shifting from standard product sentiment benchmarks to political stance evaluation.
 
+## Project Report
+You can access the full report using this link: https://drive.google.com/file/d/1SejlRFNMUskyJKKguBlB-jYpacihMFu4/view?usp=sharing
+You can write to me at shubham.agarwal_phd24@ashoka.edu.in in case you cannot access the file.
+
 ## Repository Structure
 * `/src/`: Core Python scripts.
   * `train.py`: Fine-tuning script utilizing PEFT/LoRA.
@@ -39,9 +43,6 @@ The models were first evaluated on the SemEval-2014 Laptop dataset (In-Distribut
 1. **Domain Sensitivity:** The significant performance decay (79% → 33%) indicates that sentiment logic learned from product reviews does not natively translate to structural political reporting.
 2. **The Conflict/Neutral Ambiguity:** Human annotators frequently categorize mixed arguments (Conflict) as Neutral. The model, lacking multi-premise reasoning capabilities, fails to resolve these hidden conflicts.
 
-## Project Report
-You can access the full report using this link: https://drive.google.com/file/d/1SejlRFNMUskyJKKguBlB-jYpacihMFu4/view?usp=sharing
-You can write to me at shubham.agarwal_phd24@ashoka.edu.in in case you cannot access the file.
 
 ## Future Work: Argument Mining
 To resolve the Generalization Gap and the Conflict/Neutral ambiguity, the next phase of IndiaMediaLens will integrate **Argument-Grounded Stance Detection**. By linking ABSA outputs to argument mining frameworks, the system will extract specific premises that justify media stances, moving beyond sentiment pattern-matching into structural logical analysis.
